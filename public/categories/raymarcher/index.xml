@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raymarcher on SHELTRON Visuals</title>
+    <link>https://sheltron.netlify.com/categories/raymarcher/</link>
+    <description>Recent content in raymarcher on SHELTRON Visuals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2016 20:32:03 -0800</lastBuildDate>
+    
+	<atom:link href="https://sheltron.netlify.com/categories/raymarcher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iOS mandelbox raymarcher</title>
+      <link>https://sheltron.netlify.com/portfolio/2016-07-10-ios_mandelbox/</link>
+      <pubDate>Wed, 10 Aug 2016 20:32:03 -0800</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2016-07-10-ios_mandelbox/</guid>
+      <description>Mobile fractal visualizer
+Towards realtime mobile raytracing This was an experiment, after using SceneKit for the Bridge Engine at Occipital in iOS, to see what I could do with solely a SCNTechnique, full-frame shader. I was really inspired by this talk by Tim Lottes about filtering methods for realtime raymarching. What kind of quality could be achieved on an iPhone6 ?
+Render Loop I didn&amp;rsquo;t implement all of the crazy stuff he mentions within the SCNTechnique, but a few were easy to do:</description>
+    </item>
+    
+    <item>
+      <title>Synesthesia</title>
+      <link>https://sheltron.netlify.com/portfolio/2015-05-16-synesthesia/</link>
+      <pubDate>Sat, 16 May 2015 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2015-05-16-synesthesia/</guid>
+      <description>realtime reactive VJ software
+Gravity Current&amp;rsquo;s Synesthesia In June 2015 I worked with Gravity Current on their new Synesthesia software for live reactive visuals. For this project I created two &amp;ldquo;Scenes&amp;rdquo; that played at a couple of shows in Austin:
+Looper&amp;rsquo;s night @ Strange Brew Featured my reaction diffusion system ported to C++ OpenGL with a render-to-texture feedback loop for simulation. This was a sweet event not only because of all the talented musicians, but we were able to get MIDI data from the loop pedals into Synesthesia and trigger different layers based on which loops were going.</description>
+    </item>
+    
+  </channel>
+</rss>

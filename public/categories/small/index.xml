@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>small on SHELTRON Visuals</title>
+    <link>https://sheltron.netlify.com/categories/small/</link>
+    <description>Recent content in small on SHELTRON Visuals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:13:37 -0706</lastBuildDate>
+    
+	<atom:link href="https://sheltron.netlify.com/categories/small/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laser Cuts</title>
+      <link>https://sheltron.netlify.com/portfolio/2009-01-01-laser/</link>
+      <pubDate>Sun, 01 Jan 2017 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2009-01-01-laser/</guid>
+      <description>some laser cuts made at the Tech Shop in Austin Many designs from &amp;amp; inspired by George Hart
+{% for image in site.static_files %} {% if image.path contains page.imageDir %} {% if myArray contains image.path %} {% else %} {% assign myArray = myArray | push: image.path %} {% endif %} {% endif %} {% endfor %}</description>
+    </item>
+    
+    <item>
+      <title>Paintings</title>
+      <link>https://sheltron.netlify.com/portfolio/2017-01-01-watercolor/</link>
+      <pubDate>Sun, 01 Jan 2017 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2017-01-01-watercolor/</guid>
+      <description>Some paintings I did in high school &amp;amp; college
+{% for image in site.static_files %} {% if image.path contains page.imageDir %} {% if myArray contains image.path %} {% else %} {% assign myArray = myArray | push: image.path %} {% endif %} {% endif %} {% endfor %}</description>
+    </item>
+    
+    <item>
+      <title>Sketchbook </title>
+      <link>https://sheltron.netlify.com/portfolio/2009-01-01-sketchbook0/</link>
+      <pubDate>Sun, 01 Jan 2017 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2009-01-01-sketchbook0/</guid>
+      <description>My sketchbook from 2009
+{% for image in site.static_files %} {% if image.path contains page.imageDir %} {% if myArray contains image.path %} {% else %} {% assign myArray = myArray | push: image.path %} {% endif %} {% endif %} {% endfor %}</description>
+    </item>
+    
+    <item>
+      <title>Sketchbook 2</title>
+      <link>https://sheltron.netlify.com/portfolio/2009-01-01-sketchbook1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2009-01-01-sketchbook1/</guid>
+      <description>My sketchbook from 2013
+{% for image in site.static_files %} {% if image.path contains page.imageDir %} {% if myArray contains image.path %} {% else %} {% assign myArray = myArray | push: image.path %} {% endif %} {% endif %} {% endfor %}</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>iOS mandelbox raymarcher</title>
+<meta name="description" content="Sheltron visuals portfolio site">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="https://sheltron.netlify.com/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="https://sheltron.netlify.com/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://sheltron.netlify.com/css/owl.carousel.css">
+<link rel="stylesheet" href="https://sheltron.netlify.com/css/owl.theme.css">
+
+
+  <link href="https://sheltron.netlify.com/css/style.sea.css" rel="stylesheet" id="theme-stylesheet">
+
+ 
+
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+
+<link href="https://sheltron.netlify.com/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://sheltron.netlify.com/img/favicon.png">
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-26353276-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="https://sheltron.netlify.com">SHELTRON Visuals</a></h1>
+    
+      <p class="sidebar-p">Freelance Computer Graphics, Art, Code, Math</p>
+    
+    <ul class="sidebar-menu">
+      
+        <li><a href="https://sheltron.netlify.com/portfolio/">Projects</a></li>
+      
+        <li><a href="https://sheltron.netlify.com/about/">About</a></li>
+      
+        <li><a href="https://sheltron.netlify.com/resources/">Resources</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  
+  
+  <a href="https://twitter.com/Sheltron3030" data-animate-hover="pulse" class="external twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+  
+  
+  <a href="https://www.instagram.com/nshelton" title="" class="external instagram">
+    <i class="fa fa-instagram"></i>
+  </a>
+  
+  
+  <a href="mailto:nshelton@gmail.com" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  
+  
+  <a href="https://www.linkedin.com/in/ngshelton/" data-animate-hover="pulse" class="external">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  
+  
+  
+  <a href="https://github.com/nshelton" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  
+  
+  
+</p>
+
+
+    
+  </div>
+</div>
+
+              
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="https://sheltron.netlify.com">SHELTRON Visuals</a></h1>
+</div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>iOS mandelbox raymarcher</h1>
+         <p>Mobile fractal visualizer</p>
+<p><img src="/assets/img/iOSShaders/header.jpg" alt="feedback diagram"></p>
+<h2 id="towards-realtime-mobile-raytracing-">Towards realtime mobile raytracing</h2>
+<p>This was an experiment, after using <a href="https://developer.apple.com/reference/scenekit">SceneKit</a> for the Bridge Engine at Occipital in iOS, to see what I could do with solely a <a href="https://developer.apple.com/reference/scenekit/scntechnique">SCNTechnique</a>, full-frame shader. I was really inspired by this talk by Tim Lottes about filtering methods for realtime raymarching. What kind of quality could be achieved on an iPhone6 ?</p>
+<!-- raw HTML omitted -->
+<h2 id="render-loop-">Render Loop</h2>
+<p>I didn&rsquo;t implement all of the crazy stuff he mentions within the SCNTechnique, but a few were easy to do:</p>
+<ul>
+<li>half-resolution render</li>
+<li>full-resolution reconstruction filter with temporal antialiasing</li>
+<li>postprocessing shader (chromatic aberration here)</li>
+</ul>
+<p><img src="/assets/img/iOSShaders/FractalFeedback.jpg" alt="feedback diagram"></p>
+<h2 id="reconstruction-">Reconstruction</h2>
+<p>This shows what is going on every frame, with shaders in boxes and buffers in parallelograms. I&rsquo;ll briefly describe the reconstruction algorithm here. Whenever each low-resolution raymarch is computed, we treat this as an <em>observation</em> and integrate it into the <em>model</em> using backprojection.</p>
+<p>For every pixel in the reconstruction:</p>
+<ul>
+<li>get the depth of the pixel in the half-res trace you just did</li>
+<li>project this into the full-res model from last frame</li>
+<li>sample some neighbors in the reconstruction to get a weight
+<ul>
+<li>penalize large differences from occlusions</li>
+</ul>
+</li>
+<li>assign a new value to the reconstruction, using
+<ul>
+<li>reconstruction from last frame</li>
+<li>trace from this frame</li>
+<li>hueristics based on neighborhood variance</li>
+</ul>
+</li>
+</ul>
+<p>So the result is that you do a quarter of the work (half-res trace) but because you&rsquo;re reconstructing at full res, you get some automatic motion blur from the feedback, and the jittering means that the noise gets evened out and the image converges pretty quickly. I need to tweak the thresholds and weights, but I was happy with the results.</p>
+<p><img src="/assets/img/iOSShaders/TAA.jpg" alt="feedback  ">
+this kind of just looks like a blur here. best results come while moving the camera.</p>
+<h2 id="gallery-">Gallery</h2>
+<p>all screengrabs from my iPhone6. Not all are realtime&hellip; frame rates displayed</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>{% assign myArray = &quot;&rdquo; | split:&ldquo;|&rdquo;  %}</p>
+<p>{% for image in site.static_files %}
+{% if image.path contains page.imageDir %}
+{% if myArray contains image.path %}
+{% else %}
+<!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted -->
+{% assign myArray = myArray | push: image.path %}
+{% endif %}
+{% endif %}
+{% endfor %}</p>
+<!-- raw HTML omitted -->
+
+         
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </div>
+  </div>
+  <script src="https://sheltron.netlify.com/js/jquery.min.js"></script>
+<script src="https://sheltron.netlify.com/js/bootstrap.min.js"></script>
+<script src="https://sheltron.netlify.com/js/jquery.cookie.js"> </script>
+<script src="https://sheltron.netlify.com/js/ekko-lightbox.js"></script>
+<script src="https://sheltron.netlify.com/js/jquery.scrollTo.min.js"></script>
+<script src="https://sheltron.netlify.com/js/masonry.pkgd.min.js"></script>
+<script src="https://sheltron.netlify.com/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://sheltron.netlify.com/js/owl.carousel.min.js"></script>
+<script src="https://sheltron.netlify.com/js/front.js"></script>
+
+
+
+</body>
+</html>

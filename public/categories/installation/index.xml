@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>installation on SHELTRON Visuals</title>
+    <link>https://sheltron.netlify.com/categories/installation/</link>
+    <description>Recent content in installation on SHELTRON Visuals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Jan 2019 00:13:37 -0706</lastBuildDate>
+    
+	<atom:link href="https://sheltron.netlify.com/categories/installation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FractalFlames</title>
+      <link>https://sheltron.netlify.com/portfolio/2018-09-01-fractalflames/</link>
+      <pubDate>Fri, 04 Jan 2019 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2018-09-01-fractalflames/</guid>
+      <description>&lt;p&gt;Fractal Flames&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>artandvr</title>
+      <link>https://sheltron.netlify.com/portfolio/2017-02-18-artandvr/</link>
+      <pubDate>Sat, 18 Feb 2017 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2017-02-18-artandvr/</guid>
+      <description>Art and VR at HACK TEMPLE and The New Parish with Gaslamp Killer
+3D fractal visualizer app I realized if I turn down the resolution of the vive to like 60%, you can raymarch some pretty sweet fractals at 90fps. I want to develop this more to reconstruct images at full resolution like my [iOS visualizer]({{ site.baseurl }}{% link _posts/2016-07-10-iOS_mandelbox.markdown %}). But first I created a 3D control system to explore the 3D space.</description>
+    </item>
+    
+    <item>
+      <title>COLORS</title>
+      <link>https://sheltron.netlify.com/portfolio/2016-10-30-colors/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2016-10-30-colors/</guid>
+      <description>Audio-reactive LED wall Installation with Alex Stickels. Shown at &amp;lsquo;The Art of Dying&amp;rsquo; at The Laundry SF
+Using LightJams, programmed a friend&amp;rsquo;s LED wall to be audio reactive to an original orchestral composition. The viewer put on a SubPac and headphones, along with the lightshow it made for a pertty immersive experience! The score had a huge crescendo, which, along with the lights and SubPac shaking your body made for a pretty epic finale.</description>
+    </item>
+    
+    <item>
+      <title>this._node</title>
+      <link>https://sheltron.netlify.com/portfolio/2015-11-20-this._node/</link>
+      <pubDate>Fri, 20 Nov 2015 20:32:03 -0800</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2015-11-20-this._node/</guid>
+      <description>Interactive Facebook Graph Visualization
+A collaboration with Tom Bandage.
+Users log in on the website, and their connections are displayed in the space. I implemented a custom THREE.js 3D graph renderer, using a force-directed layout [source]. Every line represents a single like, comment or photo tag shared between the two users. The 3D Structure spins slowly and responds to new users being added.
+Featured at East Austin Studio Tour
+DUE EAST &amp;amp; Chicon Collective.</description>
+    </item>
+    
+  </channel>
+</rss>

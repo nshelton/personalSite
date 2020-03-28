@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mobile on SHELTRON Visuals</title>
+    <link>https://sheltron.netlify.com/categories/mobile/</link>
+    <description>Recent content in mobile on SHELTRON Visuals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Dec 2016 00:13:37 -0706</lastBuildDate>
+    
+	<atom:link href="https://sheltron.netlify.com/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>occipital bridge</title>
+      <link>https://sheltron.netlify.com/portfolio/2016-12-21-bridge/</link>
+      <pubDate>Wed, 21 Dec 2016 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2016-12-21-bridge/</guid>
+      <description>The First iOS mixed reality headset and rendering engine
+Occipital Bridge I made the graphics engine in here, trying to get SceneKit do what it&amp;rsquo;s supposed to with crazy mixed reality rendering and compositing @ 60fps
+{% for image in site.static_files %} {% if image.path contains page.imageDir %} {% if myArray contains image.path %} {% else %} {% assign myArray = myArray | push: image.path %} {% endif %} {% endif %} {% endfor %}</description>
+    </item>
+    
+  </channel>
+</rss>

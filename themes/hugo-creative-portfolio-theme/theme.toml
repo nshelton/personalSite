@@ -18,3 +18,6 @@ min_version = 0.20
 [original]
   name = "bootstrapious"
   homepage = "https://bootstrapious.com/p/creative-portfolio"
+
+[markup.goldmark.renderer]
+  unsafe= true

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dataviz on SHELTRON Visuals</title>
+    <link>https://sheltron.netlify.com/categories/dataviz/</link>
+    <description>Recent content in dataviz on SHELTRON Visuals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Mar 2016 20:32:03 -0800</lastBuildDate>
+    
+	<atom:link href="https://sheltron.netlify.com/categories/dataviz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LiDAR Processing</title>
+      <link>https://sheltron.netlify.com/portfolio/2016-03-11-lidar_processing/</link>
+      <pubDate>Fri, 11 Mar 2016 20:32:03 -0800</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2016-03-11-lidar_processing/</guid>
+      <description>surface reconstruction from point clouds
+{% for image in site.static_files %} {% if image.path contains page.imageDir %} {% if myArray contains image.path %} {% else %} {% assign myArray = myArray | push: image.path %} {% endif %} {% endif %} {% endfor %}
+Around Congress ave in Austin, TX
+LiDAR Processing Experiments Early 2016 I bought a LiDAR scan of all of Travis county! This seemed super cool, but visualizing it was hard since the only option is really just to color code based on elevation, because there&amp;rsquo;s no information about surfaces.</description>
+    </item>
+    
+    <item>
+      <title>LiDAR Processing pt.2</title>
+      <link>https://sheltron.netlify.com/portfolio/2016-05-11-lidar_processing2/</link>
+      <pubDate>Fri, 11 Mar 2016 20:32:03 -0800</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2016-05-11-lidar_processing2/</guid>
+      <description>more experiments in point cloud reconstruction
+[Texas State Capitol in Austin]
+Issues from last time :
+Tile Artifacts [Bottom side of mesh]
+First off tried to classify the edges of a mesh and remove the outer shell parts. That&amp;rsquo;s a ton of triangles I could save!
+Then started doing a k - nearest neighbors search between neighboring meshes, and try to tesselate those. But because these has been decimated the vertices were irregular leading to inconsistent merging.</description>
+    </item>
+    
+    <item>
+      <title>this._node</title>
+      <link>https://sheltron.netlify.com/portfolio/2015-11-20-this._node/</link>
+      <pubDate>Fri, 20 Nov 2015 20:32:03 -0800</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2015-11-20-this._node/</guid>
+      <description>Interactive Facebook Graph Visualization
+A collaboration with Tom Bandage.
+Users log in on the website, and their connections are displayed in the space. I implemented a custom THREE.js 3D graph renderer, using a force-directed layout [source]. Every line represents a single like, comment or photo tag shared between the two users. The 3D Structure spins slowly and responds to new users being added.
+Featured at East Austin Studio Tour
+DUE EAST &amp;amp; Chicon Collective.</description>
+    </item>
+    
+    <item>
+      <title>Atlanta </title>
+      <link>https://sheltron.netlify.com/portfolio/2016-02-01-atlanta/</link>
+      <pubDate>Sat, 18 Jul 2015 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2016-02-01-atlanta/</guid>
+      <description>geospatial vertex shader
+Gallery {% for image in site.static_files %} {% if image.path contains page.imageDir %} {% if myArray contains image.path %} {% else %} {% assign myArray = myArray | push: image.path %} {% endif %} {% endif %} {% endfor %}</description>
+    </item>
+    
+  </channel>
+</rss>

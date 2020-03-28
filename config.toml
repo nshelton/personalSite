@@ -1,5 +1,5 @@
 baseurl = "https://sheltron.netlify.com"
-title = "SHELTRON Visuals"
+title = "sheltron visuals "
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,7 +14,7 @@ googleAnalytics = "UA-26353276-1"
   description = "Sheltron visuals portfolio site"
   copyright = "&copy;2020 Sheltron Visuals"
   sidebarAbout = [
-    "Freelance Computer Graphics, Art, Code, Math"
+    "Freelance graphics programming, Art, Code, Math"
   ]
   email = "nshelton@gmail.com"
 

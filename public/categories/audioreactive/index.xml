@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audioreactive on SHELTRON Visuals</title>
+    <link>https://sheltron.netlify.com/categories/audioreactive/</link>
+    <description>Recent content in audioreactive on SHELTRON Visuals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sheltron.netlify.com/categories/audioreactive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COLORS</title>
+      <link>https://sheltron.netlify.com/portfolio/2016-10-30-colors/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2016-10-30-colors/</guid>
+      <description>Audio-reactive LED wall Installation with Alex Stickels. Shown at &amp;lsquo;The Art of Dying&amp;rsquo; at The Laundry SF
+Using LightJams, programmed a friend&amp;rsquo;s LED wall to be audio reactive to an original orchestral composition. The viewer put on a SubPac and headphones, along with the lightshow it made for a pertty immersive experience! The score had a huge crescendo, which, along with the lights and SubPac shaking your body made for a pretty epic finale.</description>
+    </item>
+    
+    <item>
+      <title>LEVELS</title>
+      <link>https://sheltron.netlify.com/portfolio/2016-10-30-levels/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2016-10-30-levels/</guid>
+      <description>webgl audio-reactive iterative function system
+Live Demo here play it some music with a beat and it should start dancing
+while being a TA at Gray Area I worked on a fractal installation that I wanted to be educational.
+Background  I had been working with Raymarched Distance Fields for about a year and found a few cool techniques I was happy with:
+  raymarching at half-res for performance</description>
+    </item>
+    
+    <item>
+      <title>capyac</title>
+      <link>https://sheltron.netlify.com/portfolio/2015-10-13-capyac/</link>
+      <pubDate>Tue, 13 Oct 2015 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2015-10-13-capyac/</guid>
+      <description>Live performance of Audio-Reactive Shaders
+VJ for CAPYAC  in 2015 I was lucky enough to meet the talented folks at CAPYAC and become a part of their live show. I use many types of software like VDMX, WebGL and Magic Music Visuals to run custom GLSL shaders and ISF. By hooking a direct audio feed from the stage mixer into the shaders I can get some really responsive audio reactive stuff going on.</description>
+    </item>
+    
+  </channel>
+</rss>

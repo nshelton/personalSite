@@ -7,6 +7,27 @@
          <h1>{{ .Title }}</h1>
          {{ .Content }}
          {{ template "_internal/disqus.html" . }}
+
+
+         {{ range .Data.Pages }}
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                <div class="box-masonry">
+                    {{ if and (isset .Params "image") .Params.image }}
+                      {{ if eq .Params.showonlyimage true }}
+                      <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
+                      {{ else }}
+                      <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                      {{ end }}
+                          <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+                      </a>
+                    {{ end }}
+                    <div class="box-masonry-text">
+                      <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                    </div>
+                </div>
+            </div>
+          {{ end }}
+
       </div>
     </div>
   </div>

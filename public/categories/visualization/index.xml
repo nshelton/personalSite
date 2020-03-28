@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visualization on SHELTRON Visuals</title>
+    <link>https://sheltron.netlify.com/categories/visualization/</link>
+    <description>Recent content in visualization on SHELTRON Visuals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Feb 2014 20:32:03 -0800</lastBuildDate>
+    
+	<atom:link href="https://sheltron.netlify.com/categories/visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenSWR</title>
+      <link>https://sheltron.netlify.com/portfolio/2015-10-01-openswr/</link>
+      <pubDate>Sat, 01 Feb 2014 20:32:03 -0800</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2015-10-01-openswr/</guid>
+      <description>Low-level OpenGL driver development
+video: isosurface extraction and realtime rendering of a shit ton of triangles on a xeon phi cluster (no GPUs!)
+In 2015 I contracted for Intel&amp;rsquo;s visualization department on an OpenGL driver optimised for many-core intel supercomputer clusters. With that many CPUs, you can treat the network as a GPU, with each core doing some work in a Tile-Based Deferred Rendering (TBDR) pipeline. This was built on the Mesa3D graphics library and greatly improved frame rates on certain systems compared to the built in software renderer in Mesa3D (llvmpipe).</description>
+    </item>
+    
+  </channel>
+</rss>

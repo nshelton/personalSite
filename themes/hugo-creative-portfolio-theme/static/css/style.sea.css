@@ -56,6 +56,14 @@ section.background-secondary {
 }
 .img-responsive {
   margin: 0 auto;
+
+}
+
+.galleryThumb
+{
+  display: block;
+  float: left;
+  width:33%;
 }
 .no-space .box {
   margin: 0 -15px;
@@ -318,6 +326,7 @@ SIDEBAR + RIGHT COLUMN
 */
 #sidebar {
   padding-top: 40px;
+  text-align: right;
 }
 .sidebar-content {
     z-index: 0;
@@ -330,24 +339,22 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .sidebar-heading {
-  font-size: 18px;
-  text-transform: uppercase;
+  font-size: 48px;
   letter-spacing: 0.1em;
 }
 .sidebar-heading a {
-  color: #000;
+  color: #ffffff;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
 .sidebar-heading a:hover {
-  border-bottom: dotted 1px #379392;
-  color: #000;
+  color: #0000ff;
   text-decoration: none;
 }
 .sidebar-p {
-  color: #999999;
+  color: #fff;
   font-size: 14px;
 }
 .sidebar-menu {
@@ -357,18 +364,14 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-menu li {
   margin-bottom: 5px;
+  text-align: right;
 }
 .sidebar-menu li a {
-  color: #555555;
-}
-.sidebar-menu li:before {
-  font-family: 'FontAwesome';
-  content: '\f105';
-  margin: 0 5px 0 -15px;
-  color: #999999;
+  color: #bbbbbb;
+text-align: right;
 }
 .sidebar-menu li.active a {
-  color: #379392;
+  color: #ffffff;
   font-weight: bold;
 }
 .sidebar-menu li.active:before {
@@ -376,11 +379,9 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-menu li:hover a {
   text-decoration: none;
-  color: #379392;
+  color: #c59700;
 }
-.sidebar-menu li:hover:before {
-  color: #379392;
-}
+
 .content-column {
   padding-top: 40px;
 }
@@ -408,7 +409,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .content-column-content p,
 .content-column-content li {
-  color: #999999;
+  color: #000;
 }
 .content-column-content ul li {
   list-style-type: none;
@@ -577,18 +578,19 @@ p.social {
   margin-top: 20px;
 }
 p.social a {
+
   margin: 0 10px 10px 0;
   color: #fff;
   display: inline-block;
-  width: 40px;
-  height: 40px;
-  border-radius: 20px;
+  /* width: 40px; */
+  /* height: 40px; */
+  /* border-radius: 20px; */
   line-height: 40px;
   font-size: 15px;
   text-align: center;
   vertical-align: bottom;
-  border: solid 1px #999999;
-  color: #999999;
+  /* border: solid 1px #999999; */
+  /* color: #999999; */
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -805,7 +807,6 @@ a:focus,
 a:active {
   text-decoration: none;
   opacity: 1;
-  color: #fff;
 }
 .ekko-lightbox .glyphicon-chevron-left {
   left: 0;
@@ -827,10 +828,8 @@ a:active {
   margin-left: -15px;
 }
 .box-masonry {
-  background: #fff;
-  margin-bottom: 30px;
+  background: #000;
   position: relative;
-  box-shadow: 0 0 5px #ccc;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -840,32 +839,28 @@ a:active {
 .box-masonry h4 {
   font-size: 16px;
   line-height: 1.5;
-  font-weight: 700;
-  text-transform: uppercase;
+  font-weight: 500;
   letter-spacing: 0.1em;
+  margin-top: 0px ;
+  margin-bottom: 30px ;
+  /* text-align:center; */
 }
 .box-masonry h4 a {
-  color: #000;
-  border-bottom: solid 1px transparent;
+  color:  #ffff; 
 }
 .box-masonry h4 a:hover {
-  border-bottom: dotted 1px #379392;
-  color: #000;
   text-decoration: none;
 }
-.box-masonry .box-masonry-text {
-  padding: 15px 20px 15px;
-}
+
 .box-masonry .box-masonry-text p {
-  color: #999999;
   font-size: 14px;
+  color: #999999;
 }
 .box-masonry .box-masonry-hover-text-header {
   position: absolute;
   left: 0;
   right: 0;
   top: 0;
-  padding: 15px 20px 15px;
   opacity: 0;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -881,7 +876,6 @@ a:active {
 .box-masonry .box-masonry-hover-center {
   position: absolute;
   width: 100%;
-  top: 30%;
   opacity: 0;
   padding-left: 20px;
   -webkit-transition: all 0.2s ease-out;
@@ -893,9 +887,7 @@ a:active {
   color: #555555;
   font-size: 50px;
 }
-.box-masonry:hover {
-  box-shadow: 0 0 5px #999;
-}
+
 .box-masonry:hover .box-masonry-hover-text-header {
   opacity: 1;
 }
@@ -1586,11 +1578,10 @@ body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.55;
-  color: #000000;
-  background-color: #f4f4f4;
+  background-color: #000000;
 }
 a {
-  color: #379392;
+  color: #ffbb00;
   text-decoration: none;
 }
 a:hover,
@@ -2018,7 +2009,7 @@ a.text-primary:hover {
   color: #296e6d;
 }
 .bg-primary {
-  color: #fff;
+  color: #111;
   background-color: #379392;
 }
 a.bg-primary:hover {

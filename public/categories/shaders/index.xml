@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shaders on SHELTRON Visuals</title>
+    <link>https://sheltron.netlify.com/categories/shaders/</link>
+    <description>Recent content in shaders on SHELTRON Visuals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2017 00:13:37 -0706</lastBuildDate>
+    
+	<atom:link href="https://sheltron.netlify.com/categories/shaders/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Web Fest</title>
+      <link>https://sheltron.netlify.com/portfolio/2017-06-30-3dwebfest/</link>
+      <pubDate>Fri, 30 Jun 2017 00:13:37 -0706</pubDate>
+      
+      <guid>https://sheltron.netlify.com/portfolio/2017-06-30-3dwebfest/</guid>
+      <description>Live performance at 3D web fest
+Music by Alon Mor
+This fractal visualization explores the relationship between chaos and rules. Given simple objects and processes, iteration yields an unprecedented network of connections and complexity. All parameters controls can be changed on the fly, with 3D controls. This is a fundamental property of all organisms around us. Simple cells follow iterative processes, generating the richness in forms of the natural world. This work illustrates these connections with a powerful 3D fractal renderer capable of visualizing complex networks from tree structures to immersive surreal landscapes.</description>
+    </item>
+    
+  </channel>
+</rss>
