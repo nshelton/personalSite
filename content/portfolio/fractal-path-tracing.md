@@ -7,4 +7,4 @@ layout = "post"
 title = "Fractal Path Tracing"
 
 +++
-![](/4877.634-1680.png)
+![](/1735.708-794-1.png)![](/4877.634-1680.png)
