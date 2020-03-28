@@ -350,7 +350,6 @@ SIDEBAR + RIGHT COLUMN
   transition: all 0.2s ease-out;
 }
 .sidebar-heading a:hover {
-  color: #0000ff;
   text-decoration: none;
 }
 .sidebar-p {
