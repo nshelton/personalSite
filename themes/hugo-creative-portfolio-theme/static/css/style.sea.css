@@ -54,17 +54,42 @@ section.background-secondary {
   font-style: italic;
   font-family: "Georgia", "Times New Roman", Times, serif;
 }
-.img-responsive {
+.image2  .image3 {
   margin: 0 auto;
 
+}
+@media (min-width: 768px) {
+  .image2  
+  {
+  width:50%;
+  display:inline-block;
+  }
+   .image3
+  {
+  width:33%;
+  display:inline-block;
+  }
+}
+
+.half-width-embed
+{
+  width:50%;
+  display:inline-block;
 }
 
 .galleryThumb
 {
   display: block;
   float: left;
-  width:33%;
 }
+
+@media (min-width: 768px) {
+  .galleryThumb
+  {
+    width:50%;
+  }
+}
+
 .no-space .box {
   margin: 0 -15px;
 }
@@ -533,6 +558,8 @@ SERVICES / INTEGRATIONS
 CUSTOMERS
 =====================
 */
+
+
 .customer {
   text-align: center;
 }

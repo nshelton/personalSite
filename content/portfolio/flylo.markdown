@@ -6,7 +6,7 @@ categories:
  - vj
  - 3D wall
  - fractals
-image: /img/flylo/thumbnail.JPG
+image: /img/flylo/flylo.jpg
 ---
 
 3D Visuals content for Flying Lotus and Strangeloop Studios
