@@ -1,5 +1,7 @@
 {{ $albumUrl := print "/static/img/" ($.Get 0) }}
+{{ if (fileExists $albumUrl ) -}}
 {{ range readDir $albumUrl }}
     {{ $imgURL := print "img/" ($.Get 0) "/" .Name | absURL }}
     <a href="{{ $imgURL }}" class="galleryThumb" data-toggle="lightbox"><img src="{{ $imgURL }}" class="img-fluid"/></a>
 {{ end }}
+{{- end }}
