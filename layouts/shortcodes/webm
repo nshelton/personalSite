@@ -1,4 +1,4 @@
-<video autoplay loop controls style="width:50%">
+<video autoplay loop controls class="image3" >
     <source src="{{ index .Params 0 }}"  type="video/webm"  />
     Your browser does not support the video tag.
 </video>

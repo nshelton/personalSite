@@ -32,16 +32,17 @@ Aaron Lemke, Dare Matheson and [Daniel Sierra](http://optical-rhythm.com/) built
 
 The Kizuna mesh and mesh came straight from [Activ8](https://activ8.co.jp/) in [MikuMikuDance](https://en.wikipedia.org/wiki/MikuMikuDance) format
 
-{{<image "/img/kizuna/mmd.png" image3>}}
-{{<image "/img/kizuna/markers.png" image3>}}
-{{<image "/img/kizuna/kizuna_Unity.PNG" image3>}}
+{{<image "/img/kizuna/mmd.jpg" image3>}}
+{{<image "/img/kizuna/markers.jpg" image3>}}
+{{<image "/img/kizuna/kizuna_unity.jpg" image3>}}
 
 MD skeleton vs Mocap Data skeleton, and cute little colliders on the hair to prevent self intersection when doing physics sim
 
-{{<webm "/img/kizuna/danceTest.webm">}}
+{{<webm "/img/kizuna/physics.webm" image2>}}
+{{<webm "/img/kizuna/dancetest.webm" image2>}}
 
 
-{{<image "/img/kizuna/c4d.jpg" image2>}}{{<image "/img/kizuna/unity.png" image2 >}}
+{{<image "/img/kizuna/c4d.jpg" image2>}}{{<image "/img/kizuna/unity.jpg" image2 >}}
 
 Artists at Strangeloop Studios created the energy ball effect in Cinema4D. But the mograph animation didnt come through the fbx so I just hand animations and used some displacement shaders.
 
@@ -49,11 +50,11 @@ Artists at Strangeloop Studios created the energy ball effect in Cinema4D. But t
 We rendered spereate G-Buffer channels [Emission, Albedo, depth, etc] out of Unity into EXR sequences 
 
 
-{{<image "/img/kizuna/channels.png"  >}}
+{{<image "/img/kizuna/channels.jpg"  >}}
 
 Strangeloop Studios did the sick edit and comp in Premiere
 
-{{<image "/img/kizuna/kizuna.png" "image2">}}{{<image "/img/kizuna/3.jpg" "image2">}}{{<image "/img/kizuna/4.jpg" "image2">}}
+{{<image "/img/kizuna/kizuna.jpg" "image2">}}{{<image "/img/kizuna/3.jpg" "image2">}}{{<image "/img/kizuna/4.jpg" "image2">}}
 
 
 

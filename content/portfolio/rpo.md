@@ -37,21 +37,29 @@ Working out of [Strangloop Studios](https://www.strangeloop-studios.com/) in Cul
 
 ## SOME OF STU'S SICK TILT BRUSH DRAWINGS ##
 
-<a href="/img/RPO/sutu0.jpg"> <img src="/img/RPO/sutu0.jpg" width="300"> </a>
-<a href="/img/RPO/sutu1.jpg"> <img src="/img/RPO/sutu1.jpg" width="300"> </a>
-<a href="/img/RPO/sutu2.jpg"> <img src="/img/RPO/sutu2.jpg" width="300"> </a>
-<a href="/img/RPO/sutu3.jpg"> <img src="/img/RPO/sutu3.jpg" width="300"> </a>
-<a href="/img/RPO/sutu4.jpg"> <img src="/img/RPO/sutu4.jpg" width="300"> </a>
-<a href="/img/RPO/sutu5.jpg"> <img src="/img/RPO/sutu5.jpg" width="300"> </a>
-<a href="/img/RPO/sutu6.jpg"> <img src="/img/RPO/sutu6.jpg" width="300"> </a>
-<a href="/img/RPO/sutu7.jpg"> <img src="/img/RPO/sutu7.jpg" width="300"> </a>
+<a href="/img/rpo/sutu0.jpg"> <img src="/img/rpo/sutu0.jpg" class="image3"> </a>
+<a href="/img/rpo/sutu1.jpg"> <img src="/img/rpo/sutu1.jpg" class="image3"> </a>
+<a href="/img/rpo/sutu2.jpg"> <img src="/img/rpo/sutu2.jpg" class="image3"> </a>
+<a href="/img/rpo/sutu3.jpg"> <img src="/img/rpo/sutu3.jpg" class="image3"> </a>
+<a href="/img/rpo/sutu4.jpg"> <img src="/img/rpo/sutu4.jpg" class="image3"> </a>
+<a href="/img/rpo/sutu5.jpg"> <img src="/img/rpo/sutu5.jpg" class="image3"> </a>
+<a href="/img/rpo/sutu6.jpg"> <img src="/img/rpo/sutu6.jpg" class="image3"> </a>
+<a href="/img/rpo/sutu7.jpg"> <img src="/img/rpo/sutu7.jpg" class="image3"> </a>
+
+
+## Mixamo
+Taylor also told me about mixamo since it had just come out. We used this to spice up the dancefloor:
+
+<video width="640" height="480" autoplay   preload="auto" loop controls>
+    <source src="/img/rpo/mixamo.webm"  type="video/webm"  />
+Video not supported</video>
 
 
 ## VISUAL EFFECTS
 
 # LASER TEK
 
-![IronGiant](/img/RPO/ironGiant.png)
+![IronGiant](/img/rpo/irongiant.jpg)
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BeoHwB_FCBk/?utm_source=ig_embed" data-instgrm-version="9" style=" background:#000; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BeoHwB_FCBk/?utm_source=ig_embed" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Nick Shelton (@nshelton)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-01-31T20:21:16+00:00">Jan 31, 2018 at 12:21pm PST</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
 
@@ -69,13 +77,13 @@ Randomly does rubiks cube turns on the beat ! Will it eventually solve itself ?
 # JETPACKS
 
 
-![flying](/img/RPO/flying.jpg)
+![flying](/img/rpo/flying.jpg)
 Wouldn't it be cool if you could fly around the venue like in the movie?! The grip buttons will shoot out little jet streams that you can aim, and move your roomscale. We were hesitant to do this at first, but actually everyone thought it was awesome and nobody threw up. 
 
 # DISCO FLOOR
 
 <video width="640" height="480" autoplay   preload="auto" loop controls>
-    <source src="{{ site.baseurl }}/img/RPO/disco.webm"  type="video/webm"  />
+    <source src="/img/rpo/disco.webm"  type="video/webm"  />
 Video not supported</video>
 
 We made a new item. Users can spawn in cool animated disco-style floors like we saw in the scene, also hoping it would decreasee vertigo effects from flying (people like floors in VR...)
@@ -85,7 +93,7 @@ Animation by Strang   preload="auto" loop controls in C4D, custom audioreactive 
 # KVANT SWARM
 
 <video width="600" height="300" autoplay   preload="auto" loop controls>
-    <source src="{{ site.baseurl }}/img/RPO/swarm.webm"  type="video/webm"  />
+    <source src="/img/rpo/swarm.webm"  type="video/webm"  />
 Video not supported</video>
 
 Fun interactive streamer thing. Grab the attractor for the system and fly around! Audioreactive emission on this custom shader, [original effect](https://github.com/keijiro/KvantSwarm) created by [Keijiro Takahashi](https://github.com/keijiro).
@@ -94,7 +102,7 @@ Unfortunately some assholes would try to grief the DJ by flying around the DJ bo
 
 # KVANT STREAK
 
-![flying](/img/RPO/streak.png)
+![flying](/img/rpo/streak.jpg)
 [anamorphic lens flare post effect](https://github.com/keijiro/KvantSwarm) created by [Keijiro Takahashi](https://github.com/keijiro). To get that 80's look? 
 
 
