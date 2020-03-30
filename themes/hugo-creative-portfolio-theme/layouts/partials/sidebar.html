@@ -14,7 +14,7 @@
       {{ range .Site.Taxonomies.categories.ByCount }}
         {{ $active := (eq .Name $.Title) }}
         <a  href="{{ .Page.Permalink }}">
-          <li class="{{ if $active }}active{{ end }}">{{ .Page.Title }} {{ .Count }} </li>
+          <li class="{{ if $active }}active{{ end }}">{{ .Name }} {{ .Count }} </li>
         </a>
       {{ end }}
     </ul>
