@@ -13,7 +13,7 @@
     <ul class="sidebar-menu">
       {{ range .Site.Taxonomies.categories.ByCount }}
         {{ $active := (eq .Name $.Title) }}
-        <a  href="{{ .Permalink }}">
+        <a  href="/categories/{{ .Name }}">
           <li class="{{ if $active }}active{{ end }}">{{ .Name }} {{ .Count }} </li>
         </a>
       {{ end }}
