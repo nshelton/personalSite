@@ -3,8 +3,7 @@ layout: post
 title:  "OpenSWR"
 date:   2014-02-01 20:32:03 -0800
 categories: 
- - visualization
- - work
+ - dataviz
 image: /img/openswr/Intel-logo.png
 ---
 
@@ -19,27 +18,5 @@ In 2015 I contracted for Intel's visualization department on an OpenGL driver op
 
 [http://openswr.org/](http://openswr.org/)
 
-<script type="text/javascript">
-  window.onload = function() {
-    // var container = document.getElementsByClassName('post-list');
-    var container = document.getElementById('grid');
-    var wall = new Masonry( container, {
-      columnWidth: 200
-    });
-  };
-  </script>
 
-<div id="grid">
-{% assign myArray = "" | split:"|"  %}
-
-{% for image in site.static_files %}
-  {% if image.path contains page.imageDir %}
-  {% if myArray contains image.path %}
-  {% else %}
-<a href="{{image.path}}"> <img src="{{image.path}}"/> </a>
-  {% assign myArray = myArray | push: image.path %}
-  {% endif %}
-  {% endif %}
-{% endfor %}
-</div>
-
+{{<gallery openswr>}}

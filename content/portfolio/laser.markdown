@@ -3,8 +3,7 @@ layout: post
 title:  "Laser Cuts"
 date:   2017-01-01 00:13:37 -0666
 categories: 
- - analog
- - small
+ - art
 image: /img/sculpture/thumbnail.jpg
 ---
 some laser cuts made at the Tech Shop in Austin

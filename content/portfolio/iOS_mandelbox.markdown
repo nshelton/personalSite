@@ -4,8 +4,6 @@ title:  "iOS mandelbox raymarcher"
 date:   2016-08-10 20:32:03 -0800
 categories: 
  - fractals
- - iOS
- - raymarcher
 image: /img/iOSShaders/thumb.jpg
 ---
 Mobile fractal visualizer

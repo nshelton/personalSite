@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fractal Path Tracer"
-date:   2020-01-04 00:13:37 -0666
+date:   2020-02-20 00:13:37 -0666
 categories: 
  - unity
  - fractals

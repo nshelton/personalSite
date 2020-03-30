@@ -3,8 +3,7 @@ layout: post
 title:  "Synesthesia"
 date:   2015-05-16 00:13:37 -0666
 categories: 
- - fractal
- - raymarcher
+ - vj
 
 image: /img/synesthesia/thumbnail.jpg
 

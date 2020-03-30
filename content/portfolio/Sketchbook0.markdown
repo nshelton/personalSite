@@ -3,9 +3,8 @@ layout: post
 title:  "Sketchbook "
 date:   2017-01-01 00:13:37 -0666
 categories: 
- - analog
- - small
-image: /img/art/sketches2 "thumbnail.jpg"
+ - art
+image: /img/art/sketches2/thumbnail.jpg
 
 ---
 

@@ -5,8 +5,6 @@ date:   2019-01-04 00:13:37 -0666
 categories: 
  - vj
  - unity
- - installation
-
 image: img/fractalFlames/thumbnail.JPG
 
 ---

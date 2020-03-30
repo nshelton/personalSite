@@ -4,6 +4,7 @@ title:  "Ready Player One"
 date:   2018-03-09 00:13:37 -0666
 categories: 
  - vr
+ - unity
  - wave
 image: img/rpo/arcades.png
 ---

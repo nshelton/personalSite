@@ -3,9 +3,9 @@ layout: post
 title:  "N-FOLD"
 date:   2017-06-27 00:13:37 -0666
 categories: 
- - virtual reality
+ - vr
+ - unity
  - wave
- - strangeloop
 image: /img/nfold/poster2.jpg
 ---
 

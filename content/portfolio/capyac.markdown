@@ -4,8 +4,6 @@ title:  "capyac"
 date:   2015-10-13 00:13:37 -0666
 categories: 
  - vj
- - capyac
- - audioreactive
 image: /img/VJ/thumb.jpg 
 ---
 Live performance of Audio-Reactive Shaders

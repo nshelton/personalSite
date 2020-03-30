@@ -3,9 +3,7 @@ layout: post
 title:  "COLORS"
 date:   2016-10-30 
 categories: 
- - led wall
  - installation
- - audioreactive
 image: /img/COLORS/thumb.jpg
 ---
 
@@ -14,17 +12,6 @@ Audio-reactive LED wall Installation with Alex Stickels. Shown at 'The Art of Dy
 
 Using LightJams, programmed a friend's LED wall to be audio reactive to an original orchestral composition. The viewer put on a SubPac and headphones, along with the lightshow it made for a pertty immersive experience! The score had a huge crescendo, which, along with the lights and SubPac shaking your body made for a pretty epic finale.
 
-
- 
-<script type="text/javascript">
-  window.onload = function() {
-    // var container = document.getElementsByClassName('post-list');
-    var container = document.getElementById('grid');
-    var wall = new Masonry( container, {
-      columnWidth: 200
-    });
-  };
-  </script>
 
 <video src="/assets/img/COLORS/1.mov" controls preload  > </video>
 <video src="/assets/img/COLORS/2.mov" controls preload  > </video>

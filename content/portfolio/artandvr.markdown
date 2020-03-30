@@ -4,6 +4,9 @@ title:  "artandvr"
 date:   2017-02-18 00:13:37 -0666
 categories: 
  - installation
+ - fractals
+ - unity
+ - vr
 image: /img/artandvr/z2.jpg
 ---
 

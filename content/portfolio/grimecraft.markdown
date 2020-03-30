@@ -3,9 +3,9 @@ layout: post
 title:  "GRIMECRAFT viz"
 date:   2017-07-10
 categories: 
+ - unity
  - vj
  - vr
- - grimecraft
 image: /img/grimecraft/thumb.jpg
 ---
 

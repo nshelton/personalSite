@@ -5,10 +5,11 @@
     <div class="col-lg-12">
       <div class="content-column-content">
          <h1>{{ .Title }}</h1>
+         <h3>{{ .Date.Format "Jan 2006"}}</h3>
          {{ .Content }}
          {{ template "_internal/disqus.html" . }}
 
-
+<!-- 
          {{ range .Data.Pages }}
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                 <div class="box-masonry">
@@ -26,7 +27,7 @@
                     </div>
                 </div>
             </div>
-          {{ end }}
+          {{ end }} -->
 
       </div>
     </div>

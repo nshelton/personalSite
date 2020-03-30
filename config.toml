@@ -7,8 +7,11 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-26353276-1"
 
+[taxonomies]
+  category = "categories"
+
 [params]
-  # Style options: default (pink), blue, green, pink, red, sea, violet
+
   # Use custom.css for your custom styling
   style = "sea"
   description = "Sheltron visuals portfolio site"
@@ -19,10 +22,6 @@ googleAnalytics = "UA-26353276-1"
   email = "nshelton@gmail.com"
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Projects"
-  url = "portfolio/"
-  home = true
 
   [[params.navlinks]]
   name = "About"
@@ -31,6 +30,12 @@ googleAnalytics = "UA-26353276-1"
   [[params.navlinks]]
   name = "Resources"
   url = "resources/"
+
+  [[params.navlinks]]
+  name = "All Projects"
+  url = "portfolio/"
+  home = true
+
 
   [params.social]
   # facebook      = "full page or profile url in facebook"

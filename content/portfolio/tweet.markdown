@@ -3,8 +3,8 @@ layout: post
 title:  "tweet"
 date:   2015-07-18 00:13:37 -0666
 categories: 
- - THREE.js
- - demo
+ - webgl
+ - dataviz
 image: /img/tweet/thumbnail.jpg
 ---
 

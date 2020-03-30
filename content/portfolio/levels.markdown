@@ -3,9 +3,7 @@ layout: post
 title:  "LEVELS"
 date:   2016-10-30 
 categories: 
- - shader
- - fractal
- - audioreactive
+ - fractals
  - webgl
 image: /img/levels0.jpg
 ---

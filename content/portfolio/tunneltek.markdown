@@ -3,8 +3,7 @@ layout: post
 title:  "TunnelTek"
 date:   2017-05-01
 categories: 
- - shader
- - tunnel
+ - vj
 image: /img/tunneltek/tunnel.png
 
 ---

@@ -2,28 +2,24 @@
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
     {{ partial "social_buttons_in_sidebar.html" . }}
-    {{ range .Site.Params.sidebarAbout }}
-      <p class="sidebar-p">{{ . | safeHTML }}</p>
-    {{ end }}
-    <ul class="sidebar-menu">
-      {{ range .Site.Params.navlinks }}
-        <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
-      {{ end }}
 
-          
+      {{ range .Site.Params.navlinks }}
+        <a href="{{ absURL .url }}">{{ .name }}</a> // </li>
+      {{ end }}
+      <!-- {{ range .Site.Params.sidebarAbout }} -->
+      <!-- <p class="sidebar-p">{{ . | safeHTML }}</p> -->
+    <!-- {{ end }} -->
+
     <ul class="sidebar-menu">
-      {{ range .Data.Pages }}
-      <li><a href="{{ .Permalink }}">{{ .Title  }}</a></li>
+      {{ range .Site.Taxonomies.categories.ByCount }}
+        {{ $active := (eq .Name $.Title) }}
+        <a  href="{{ .Page.Permalink }}">
+          <li class="{{ if $active }}active{{ end }}">{{ .Page.Title }} {{ .Count }} </li>
+        </a>
       {{ end }}
     </ul>
 
-    <!-- <div class="copyright">
-      <p class="credit">
-        {{ with .Site.Params.copyright }}
-          {{ . | safeHTML }}
-        {{ end }}
-      </p>
-    </div> -->
+
   </div>
 </div>
  

@@ -3,9 +3,8 @@ layout: post
 title:  "this._node"
 date:   2015-11-20 20:32:03 -0800
 categories: 
- - installation
- - facebook
  - dataviz
+ - webgl
 image: /img/thisnode/thumbnail.jpg
 ---
 

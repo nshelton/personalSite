@@ -3,10 +3,8 @@ layout: post
 title:  "occipital bridge"
 date:   2016-12-21 00:13:37 -0666
 categories: 
- - work
- - graphics
  - mobile
- - augmented-reality
+ - ar
 image: /img/bridge/thumbnail.jpg
 ---
 Mobile mixed reality graphics

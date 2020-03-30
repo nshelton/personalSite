@@ -3,9 +3,8 @@ layout: post
 title:  "Lynx Laboratories"
 date:   2014-02-01 20:32:03 -0800
 categories: 
- - 3d scanning
- - work
- - research
+ - ml
+ - 3DScanning
 image: /img/lynx/thumbnail.jpg"
 
 ---

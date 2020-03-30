@@ -5,6 +5,8 @@ date:   2017-07-10
 categories: 
  - vj
  - vr
+ - unity
+ - wave
 image: /img/aktual/thumb.jpg
 ---
 ASH KOOSHA show in TheWaveVR

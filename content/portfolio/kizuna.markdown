@@ -4,9 +4,9 @@ title:  "The Light - Kizuna AI / W&W"
 date:   2019-03-10 00:13:37 -0666
 categories: 
  - unity
- - fractals
+ - wave
 
-image: img/kizuna/kizuna_Unity.PNG
+image: img/kizuna/kizuna_unity.png
 
 ---
 

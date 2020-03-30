@@ -6,7 +6,6 @@ categories:
  - vj
  - webgl
  - fractals
- - shaders
 image: /img/3dwebfest/thumb.png
 ---
 

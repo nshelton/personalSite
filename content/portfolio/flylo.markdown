@@ -4,8 +4,7 @@ title:  "3D Flying Lotus Visuals"
 date:   2017-07-23 00:13:37 -0666
 categories: 
  - vj
- - 3D wall
- - fractals
+ - unity
 image: /img/flylo/flylo.jpg
 ---
 
