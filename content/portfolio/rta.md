@@ -39,7 +39,7 @@ Shadertoy KIFS (click and drag)
 
 iOS OpenGL Visualizer
 
-[Temporal Reprojection]( {{<ref "ios_mandelbox.md">}}): This is an effective technique that reuses the previous frame's depth values and projects this into the current frame to save a lot of the computation necessary. It fails when distance fields are temporally changing and generally suffers from ghosting artifacts on occlusions. [Read more about my iOS fractal visualizer here]( {{< ref ios_mandelbox.md >}}).
+[Temporal Reprojection]( {{<ref "ios_mandelbox.md">}}): This is an effective technique that reuses the previous frame's depth values and projects this into the current frame to save a lot of the computation necessary. It fails when distance fields are temporally changing and generally suffers from ghosting artifacts on occlusions. [Read more about my iOS fractal visualizer here]({{<ref "ios_mandelbox.md">}}).
 
 ![Controls](/img/iosshaders/gallery/tumblr_obcchb2olz1qav1pyo4_1280.jpg)
 
