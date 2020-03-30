@@ -31,13 +31,11 @@ i'd love for anyone who has any feedback to email me: nshelton at gmail dot com
  - SteamVR
 
 
-
 # *Running*
 
  - [Download Here](https://drive.google.com/file/d/0B5G6DAhx0gwlQVdvZFRGWG1TZTg/view?usp=sharing)
  - Unzip
  - run FORM.exe
-
 
 
 # *Controls*

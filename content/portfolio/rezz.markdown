@@ -16,6 +16,8 @@ Beyond the Senses EP release
 <!--more-->
 # What is a Virtual Concert?
 
+
+
 This was the first big show we did using the new *Wave Studio* tech stack I designed.  This includes:
  - [Xsens](https://www.xsens.com) Mocap Suit
  - [ManusVR](https://manus-vr.com/) gloves

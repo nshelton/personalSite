@@ -35,22 +35,4 @@ It was actually set up to do a wave simulation, with audio frequencies feeding t
 >>> "There are no mistakes, just happy accidents." 
 - Bob Ross
 
-<div id="grid">
-
-{% assign myArray = "" | split:"|"  %}
-
-
-
-{% for image in site.static_files %}
-  {% if image.path contains page.imageDir %}
-  {% if myArray contains image.path %}
-  {% else %}
-  {% if image.path contains ".mov" %}
-  {% else %}
-<a href="{{image.path}}"> <img src="{{image.path}}"/> </a>
-  {% endif %}
-  {% assign myArray = myArray | push: image.path %}
-  {% endif %}
-  {% endif %}
-{% endfor %}
-</div>
+{{<gallery colors>}}
