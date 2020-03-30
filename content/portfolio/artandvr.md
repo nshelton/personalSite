@@ -17,7 +17,7 @@ Art and VR at HACK TEMPLE and The New Parish with Gaslamp Killer
 <iframe src="https://player.vimeo.com/video/206780970" style="width:100%; height:500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 ## 3D fractal visualizer app
-I realized if I turn down the resolution of the vive to like 60%, you can raymarch some pretty sweet fractals at 90fps. I want to develop this more to reconstruct images at full resolution like my [iOS raymarcher]({{<ref "iOS_mandelbox.md">}}). But first I created a 3D control system to explore the 3D space. Vive controllers are awesome.
+I realized if I turn down the resolution of the vive to like 60%, you can raymarch some pretty sweet fractals at 90fps. I want to develop this more to reconstruct images at full resolution like my [iOS raymarcher]({{<ref "ios_mandelbox.md">}}). But first I created a 3D control system to explore the 3D space. Vive controllers are awesome.
 
 
 ## 3D Controls
