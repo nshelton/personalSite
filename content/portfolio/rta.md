@@ -45,7 +45,7 @@ iOS OpenGL Visualizer
 
 HTC Vive
 
-[FORM0][Temporal Reprojection]( {{<ref "FORM.md">}})  : This was the first app I made for VR Fractals. You could get decent frame rates if you lowered the resolution of the vive display to about 60%. 
+[FORM0][Temporal Reprojection]( {{<ref "form.md">}})  : This was the first app I made for VR Fractals. You could get decent frame rates if you lowered the resolution of the vive display to about 60%. 
 
 ![Controls](/img/artandvr/4.jpg)
 

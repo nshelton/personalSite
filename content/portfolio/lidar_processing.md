@@ -93,5 +93,5 @@ In the future, I want to make a custom ambient occlusion implementation to make 
  * Time comparison - Austin is growing super fast and this scan is already 5 years out of date. Now, where could I get an updated scan data... Google maps? Apple Maps? Going to try using a GLTrace to rip out the vertex positions... is that allowed? 
 
 
-[Part II]( {{<ref "lidar_processing2.markdown">}})
+[Part II]( {{<ref "lidar_processing2.md">}})
 
