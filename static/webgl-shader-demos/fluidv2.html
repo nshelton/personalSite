@@ -199,7 +199,7 @@ var last_frame_beat = true;
 function startAudio(filename) {
   if (src != undefined)
     src.stop(); 
-  ctx = new webkitAudioContext(); //is there a better API for this? 
+  ctx = new AudioContext(); //is there a better API for this? 
   var req = new XMLHttpRequest(); 
   //req.open("GET","808.mp3",true); 
   req.open("GET",filename,true); 
@@ -231,7 +231,7 @@ function startMic(stream) {
     if (src != undefined)
         src.stop(); 
     window.AudioContext = window.AudioContext || window.webkitAudioContext;
-    ctx = new webkitAudioContext();
+    ctx = new window.AudioContext();
 
     // Create an AudioNode from the stream.
     var mediaStreamSource = ctx.createMediaStreamSource( stream );

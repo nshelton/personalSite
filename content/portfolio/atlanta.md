@@ -4,6 +4,7 @@ title:  "Atlanta "
 date:   2015-07-18 00:13:37 -0666
 categories: 
  - dataviz
+ - webgl
 image: img/atlanta/thumb.jpg
 ---
 

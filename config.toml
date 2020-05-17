@@ -17,7 +17,7 @@ googleAnalytics = "UA-26353276-1"
   description = "Sheltron visuals portfolio site"
   copyright = "&copy;2020 Sheltron Visuals"
   sidebarAbout = [
-    "Freelance graphics programming, Art, Code, Math"
+    "Freelance graphics programming, Art, Code, Math, Data"
   ]
   email = "nshelton@gmail.com"
 

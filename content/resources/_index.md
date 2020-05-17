@@ -10,7 +10,6 @@ Also I wish there was more active demoscene community in san francisco / austin 
 # Unity and Shaders
 
 [Catlike Coding](https://catlikecoding.com/unity/tutorials/)
-
 * [Rendering](https://catlikecoding.com/unity/tutorials/rendering/)
 * [Scriptable Render Pipeline](https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/)
 
