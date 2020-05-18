@@ -1,9 +1,11 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "what is this"
+title = "About"
 +++
 
-Nick Shelton is a multidisciplinary artist and graphics programmer from Texas. His work explores 3D visualization of generative geometry- from audio-reactive projections for live music acts to educational interactive data visualization installations at museums and art galleries.  
+
+My name is Sheltron, this is where I keep a list of projects I've worked on relating to interactive graphics, data visualization, and audiovisual and virtual performance capture, 3D scanning, fracals, performance optimisation... 
+
 
  <!-- * 2018 [Resume](https://nshelton.github.io/assets/docs/resume.pdf) FIXLINK -->
  <!-- * [cv](https://nshelton.github.io/CV/) FIXLINK -->

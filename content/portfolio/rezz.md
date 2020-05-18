@@ -16,8 +16,6 @@ Beyond the Senses EP release
 <!--more-->
 # What is a Virtual Concert?
 
-
-
 This was the first big show we did using the new *Wave Studio* tech stack I designed.  This includes:
  - [Xsens](https://www.xsens.com) Mocap Suit
  - [ManusVR](https://manus-vr.com/) gloves
@@ -55,21 +53,21 @@ Here I am looking intensely at some very important performance information proba
 *Aaron Lemke* is in the zone manning the cameraman build. Note the 2 keyboards for double hacking.
 
 
-![img](/img/rezz/t.png)
+![img](/img/rezz/t.jpg)
 We got this cad model of the actual stage setup REZZ would use in her tour! So we put it into Unity and hooked up lights and video walls! I hope somebody goes to her show and thinks, for some reason this looks familiar....
 
 *some early avatar tests* 
-![img](/img/rezz/a.png)
+![img](/img/rezz/a.jpg)
 
-![img](/img/rezz/f.png)
-![img](/img/rezz/g.png)
+![img](/img/rezz/f.jpg)
+![img](/img/rezz/g.jpg)
 
-![img](/img/rezz/s.png)
+![img](/img/rezz/s.jpg)
 attendee collision bounds
 
-![img](/img/rezz/q.png)
-![img](/img/rezz/w.png)
-![img](/img/rezz/e.png)
+![img](/img/rezz/q.jpg)
+![img](/img/rezz/w.jpg)
+![img](/img/rezz/e.jpg)
 realtime twitch interaction via Chatty moth technology
 
 ![img](/img/rezz/y.jpg)

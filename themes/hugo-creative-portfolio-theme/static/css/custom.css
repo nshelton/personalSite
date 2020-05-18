@@ -24,6 +24,15 @@ body {
     height: 0 
 }
 
+* {
+    /* font-family: 'DM Mono', monospace; */
+    /* font-family: 'Roboto', sans-seri*/
+    /* font-family: 'Anonymous Pro', sans-serif;  */
+    /* font-family: 'Balsamiq Sans', cursive; */
+    font-family: 'Major Mono Display', monospace;
+}
+
+
 .social > a {
     display:inline-block;
     margin: 0px 10px;
@@ -77,7 +86,7 @@ em {
 }
 
 * {
-    color:#fff;
+    color:#aaa;
 }
 
 
