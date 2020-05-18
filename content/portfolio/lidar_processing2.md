@@ -12,7 +12,7 @@ image: img/lidar2/thumb.jpg
 more experiments in point cloud reconstruction
 <!--more-->
 
-![laplacian](/assets/img/lidar2/capitol.jpg)
+![laplacian](/img/lidar2/capitol.jpg)
 [Texas State Capitol in Austin]
 
 
@@ -21,13 +21,13 @@ Issues from last time :
 ## Tile Artifacts
 
 
-![seam0](/assets/img/lidar2/seam0.jpg)
+![seam0](/img/lidar2/seam0.jpg)
 [Bottom side of mesh]
 
 First off tried to classify the edges of a mesh and remove the outer shell parts. That's a ton of triangles I could save! 
 
-![seam1](/assets/img/lidar2/seam1.jpg)
-![seam2](/assets/img/lidar2/seam2.jpg)
+![seam1](/img/lidar2/seam1.jpg)
+![seam2](/img/lidar2/seam2.jpg)
 
 Then started doing a k - nearest neighbors search between neighboring meshes, and try to tesselate those. But because these has been decimated the vertices were irregular leading to inconsistent merging. 
 
@@ -39,8 +39,8 @@ Then started doing a k - nearest neighbors search between neighboring meshes, an
 
  which usually merged tiles with minimal artifacts! As long as there was enough overlap in the tiles. 
 
-![seam1](/assets/img/lidar2/merge1.jpg)
-![seam1](/assets/img/lidar2/merge2.jpg)
+![seam1](/img/lidar2/merge1.jpg)
+![seam1](/img/lidar2/merge2.jpg)
 
 ## Parametric box fitting! (to the volume or the point set) 
 
@@ -51,12 +51,12 @@ Then started doing a k - nearest neighbors search between neighboring meshes, an
 
 ## Better AO
 
-![ao](/assets/img/lidar2/ao.jpg)
+![ao](/img/lidar2/ao.jpg)
 [Congress Ave in Downtown Austin, Texas]
 
 Why reinvent the wheel! I have reconstructions to do! Actually I found a pretty sweet AO generator. The tile artifacts totally destoryed the mesh topology so the UV wrapping didn't work the best, and took forever. But pretty useful tool if you have a decent mesh ! Check out [prideout](http://github.prideout.net/)'s  [aobaker](https://github.com/prideout/aobaker)
 
-![seam1](/assets/img/lidar2/thumb.jpg)
+![seam1](/img/lidar2/thumb.jpg)
 
 ## Diferent subjects
 
@@ -78,14 +78,14 @@ Update: Whan I have my WebGL inspector for Chrome enabled! 3D maps don't work...
 
 The objective here is to get maximum detail, smooth interpolation, no gaps, etc. I came up with a few techniques, each with their pros and cons. 
 
-![gaussian](/assets/img/lidar/blur.jpg)
+![gaussian](/img/lidar/blur.jpg)
 
 # Low pass / Isotropic Diffusion
 
 Basically take each point in the volume and make it fill a sphere somehow. To accomplish this, I mark cells that a point lands in with a very high number. Then run a 3D gaussian blur on the volume. This keeps my field mostly continuous, so reconstructing the isosurface is smooth.
 
 
-![laplacian](/assets/img/lidar2/laplacian.jpg)
+![laplacian](/img/lidar2/laplacian.jpg)
 
 # Anisotropic Diffusion
 
@@ -93,7 +93,7 @@ The Gaussian is one solution to the heat equation, but we don't want to blur edg
 I implemented this wrong using the laplacian early on and moved on. Gave me some weird patterns inside the volume when I ran marching cubes. This is probably part of the optimal solution, but it still doesn't fill holes. I will revisit this with the right equation next time ...
 
 
-![seam1](/assets/img/lidar2/merge3.jpg)
+![seam1](/img/lidar2/merge3.jpg)
 [capturing individual water pipes at UT Austin campus]
 
 # Dilation-Erosion
@@ -106,7 +106,7 @@ I got some really sick detail using this technique. Probably, you want to then b
 
 
 
-![seam1](/assets/img/lidar2/glitch.jpg)
+![seam1](/img/lidar2/glitch.jpg)
 
 ## decimation glitches!
 

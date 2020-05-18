@@ -9,7 +9,7 @@ image: img/iosshaders/thumb.jpg
 Mobile fractal visualizer
 <!--more-->
 
-![feedback diagram](/img/iOSShaders/header.jpg)
+![feedback diagram](/img/iosshaders/header.jpg)
 
 ## Towards realtime mobile raytracing ##
 
@@ -26,7 +26,7 @@ I didn't implement all of the crazy stuff he mentions within the SCNTechnique, b
  - postprocessing shader (chromatic aberration here)
 
 
-![feedback diagram](/img/iOSShaders/FractalFeedback.jpg)
+![feedback diagram](/img/iosshaders/fractalfeedback.jpg)
 
 ## Reconstruction ##
 
@@ -45,7 +45,7 @@ For every pixel in the reconstruction:
 
 So the result is that you do a quarter of the work (half-res trace) but because you're reconstructing at full res, you get some automatic motion blur from the feedback, and the jittering means that the noise gets evened out and the image converges pretty quickly. I need to tweak the thresholds and weights, but I was happy with the results. 
 
-![feedback  ](/img/iOSShaders/TAA.jpg)
+![feedback  ](/img/iosshaders/taa.jpg)
 this kind of just looks like a blur here. best results come while moving the camera.
 
 ## Gallery ##

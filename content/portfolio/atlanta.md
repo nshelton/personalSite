@@ -15,4 +15,4 @@ Prototypes for [Terra Incognita](https://www.terraincognita.com) [Gatheround: St
 
 ## Gallery ##
 
- {{<gallery "art/atlanta">}}
+ {{<gallery "atlanta">}}

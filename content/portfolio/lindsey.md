@@ -4,6 +4,7 @@ title:  "Lindsey Stirling"
 date:   2019-08-26 20:32:03 -0800
 categories: 
  - unity
+ - wave 
 image: img/ls/8.jpg
 ---
 

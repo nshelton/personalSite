@@ -40,7 +40,7 @@ i'd love for anyone who has any feedback to email me: nshelton at gmail dot com
 
 
 # *Controls*
-![Controls](/assets/img/form/controller.png)
+![Controls](/img/form/controller.jpg)
 
 
 
@@ -125,7 +125,7 @@ Working on these
 
 [Syntopia](http://blog.hvidtfeldts.net/index.php/2011/11/distance-estimated-3d-fractals-vi-the-mandelbox/)
 
-![mandelbox](/assets/img/form/mandelbox.png)
+![mandelbox](/img/form/mandelbox.jpg)
 
 Screenshot from FORM
 
@@ -137,9 +137,9 @@ Screenshot from FORM
 
 Straight out of this sick demo… Found this code which I still don’t understand but produces many interesting variants that are not seen in the original demo like:
  
-![Hartverdrahtet](/assets/img/form/hart2.jpg)
-![Hartverdrahtet](/assets/img/form/form1.png)
-![Hartverdrahtet](/assets/img/form/form2.png)
+![Hartverdrahtet](/img/form/hart2.jpg)
+![Hartverdrahtet](/img/form/form1.jpg)
+![Hartverdrahtet](/img/form/form2.jpg)
 
 Screenshots from FORM
 
@@ -149,11 +149,11 @@ Screenshots from FORM
  
 I like using long skinnies for primitives instead spheres:
  
- ![ifs](https://nshelton.github.io/assets/img/levels/example.jpg)
+ ![ifs](https://nshelton.github.io/img/levels/example.jpg)
 
 Sphere based:
 
-![knighty](/assets/img/form/knighty.png)
+![knighty](/img/form/knighty.jpg)
 
 Knighty // Fractal Forums 	
 
@@ -161,7 +161,7 @@ Knighty // Fractal Forums
 
 iq // Shadertoy	
 
-![form](/assets/img/artandvr/vive2PNG.PNG)
+![form](/img/artandvr/vive2.jpg)
 
 long skinnies from form
 
@@ -171,13 +171,13 @@ long skinnies from form
  
 Coloring - The renderer colors based on iteration count only, indexing into a color map. Some of my favorites (with more info) can be found here: [https://bids.github.io/colormap/](https://bids.github.io/colormap/)
  
-![colormaps](/assets/img/form/colormaps.png)
+![colormaps](/img/form/colormaps.jpg)
 
 For rendering efficiency - there is no lighting, normals calculation, fog, etc. I want to add some of this in the future.
 
 The image is rendered at 60% resolution to keep the frame rate high. 
 
-![colormaps](/assets/img/form/steamvr.png)
+![colormaps](/img/form/steamvr.jpg)
 
 If you have a crappy card and are seeing frame rate issues, go to SteamVR Developer settings, and lower the resolution even further. I add some FXAA to try to cut down on aliasing. 
 
