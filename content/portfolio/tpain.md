@@ -25,23 +25,23 @@ This is the first time we actually showed this crazy stuff to outside people, bu
 
 # Behind the scenes
 
-![img](/assets/img/tpain/dummy.gif)
+![img](/img/tpain/dummy.gif)
 first time streaming mocap data!
 
 Some in progress shots of T-Pain's demon avatar, mostly done by *Dare Matheson* and *Nicolas Silveria*, using Maya and Unity:
 
-![img](/assets/img/tpain/3.jpg)
-![img](/assets/img/tpain/6.jpg)
+![img](/img/tpain/3.jpg)
+![img](/img/tpain/6.jpg)
 
-![img](/assets/img/tpain/10.jpg)
+![img](/img/tpain/10.jpg)
 Wave Team!
-![img](/assets/img/tpain/9.jpg)
-![img](/assets/img/tpain/11.jpg)
-![img](/assets/img/tpain/12.jpg)
-![img](/assets/img/tpain/13.jpg)
+![img](/img/tpain/9.jpg)
+![img](/img/tpain/11.jpg)
+![img](/img/tpain/12.jpg)
+![img](/img/tpain/13.jpg)
 
 This is the actual Album cover the avatar was based on. Note the shape of T-Pain's shadow LOL 
-![img](/assets/img/tpain/14.jpg)
+![img](/img/tpain/14.jpg)
 
 
 

@@ -2129,3 +2129,12 @@ a.list-group-item.active > .badge,
 .nav-pills > li > a > .badge {
   margin-left: 3px;
 }
+
+
+/*CUSTOM*/
+
+.box-masonry-image img
+{
+    width: 100%;
+
+}

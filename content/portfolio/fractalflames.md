@@ -15,19 +15,19 @@ Fractal Flames
 ### *Compute shader particle system in Unity*
 [Project on Github](https://github.com/nshelton/FractalFlames)
 
-![img](/img/fractalFlames/0.JPG)
-![img](/img/fractalFlames/1.JPG)
-![img](/img/fractalFlames/10.JPG)
-![img](/img/fractalFlames/11.JPG)
-![img](/img/fractalFlames/12.JPG)
-![img](/img/fractalFlames/2.JPG)
-![img](/img/fractalFlames/3.JPG)
-![img](/img/fractalFlames/4.JPG)
-![img](/img/fractalFlames/5.JPG)
-![img](/img/fractalFlames/6.JPG)
-![img](/img/fractalFlames/7.JPG)
-![img](/img/fractalFlames/8.JPG)
-![img](/img/fractalFlames/9.JPG)
+![img](/img/fractalflames/0.jpg)
+![img](/img/fractalflames/1.jpg)
+![img](/img/fractalflames/10.jpg)
+![img](/img/fractalflames/11.jpg)
+![img](/img/fractalflames/12.jpg)
+![img](/img/fractalflames/2.jpg)
+![img](/img/fractalflames/3.jpg)
+![img](/img/fractalflames/4.jpg)
+![img](/img/fractalflames/5.jpg)
+![img](/img/fractalflames/6.jpg)
+![img](/img/fractalflames/7.jpg)
+![img](/img/fractalflames/8.jpg)
+![img](/img/fractalflames/9.jpg)
 
 
 

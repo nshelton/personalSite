@@ -1,5 +1,5 @@
 baseurl = "https://sheltron.netlify.com"
-title = "sheltron visuals "
+title = "SHELTRON"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,6 +11,16 @@ googleAnalytics = "UA-26353276-1"
   category = "categories"
 
 [params]
+
+  [related]
+
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+  [[related.indices]]
+  name = "categories"
+  weight = 100
 
   # Use custom.css for your custom styling
   style = "sea"
@@ -35,6 +45,10 @@ googleAnalytics = "UA-26353276-1"
   name = "All Projects"
   url = "portfolio/"
   home = true
+
+  [[params.navlinks]]
+  name = "Live Demos"
+  url = "demos/"
 
 
   [params.social]

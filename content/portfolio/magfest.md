@@ -11,6 +11,7 @@ image: img/magfest/title.jpg
 Super MagFest 2019 DJ battle
 <!--more-->
 ## *DJ BATTLE*
+{{<youtube HbwMEDB0KGs>}}
 
 I VJ'd for 3 straight hours for thousands of people at the magfest DJ battle with the homies
 
@@ -30,16 +31,16 @@ I VJ'd for 3 straight hours for thousands of people at the magfest DJ battle wit
 
 This Unity project had THREE display outputs!
 
-![img0](/img/magfest/3Cameras.JPG)
-![img2](/img/magfest/UI.JPG)
+![img0](/img/magfest/3cameras.jpg)
+![img2](/img/magfest/ui.jpg)
 Touchscreen UI
 
-![img2](/img/magfest/3Cameras2.JPG)
-![img2](/img/magfest/UI2.JPG)
-![img2](/img/magfest/camera.JPG)
+![img2](/img/magfest/3cameras2.jpg)
+![img2](/img/magfest/ui2.jpg)
+![img2](/img/magfest/camera.jpg)
 
 I could play videos and put up logos on 3D quads in the Scene, that were parented to the Camera.
 
-![img2](/img/magfest/kda1.JPG)
-![img2](/img/magfest/zelda.JPG)
+![img2](/img/magfest/kda1.jpg)
+![img2](/img/magfest/zelda.jpg)
 
