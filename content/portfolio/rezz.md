@@ -44,36 +44,36 @@ The cool thing about this tech is that it's all realtime, so you could, say, cre
 
 # Behind the scenes
 It was very hot, LA in the middle of the summer and we have this tiny office. And when we have all the GPUs and sound system running there isn't enough power left for the AC to actually work. 
-![img](/assets/img/rezz/0.jpg)
-![img](/assets/img/rezz/1.jpg)
-![img](/assets/img/rezz/2.jpg)
-![img](/assets/img/rezz/3.jpg)
+![img](/img/rezz/0.jpg)
+![img](/img/rezz/1.jpg)
+![img](/img/rezz/2.jpg)
+![img](/img/rezz/3.jpg)
 Here I am looking intensely at some very important performance information probably relating to *bits per second*. 
-![img](/assets/img/rezz/4.jpg)
-![img](/assets/img/rezz/5.jpg)
-![img](/assets/img/rezz/6.jpg)
+![img](/img/rezz/4.jpg)
+![img](/img/rezz/5.jpg)
+![img](/img/rezz/6.jpg)
 *Aaron Lemke* is in the zone manning the cameraman build. Note the 2 keyboards for double hacking.
 
 
-![img](/assets/img/rezz/t.png)
+![img](/img/rezz/t.png)
 We got this cad model of the actual stage setup REZZ would use in her tour! So we put it into Unity and hooked up lights and video walls! I hope somebody goes to her show and thinks, for some reason this looks familiar....
 
 *some early avatar tests* 
-![img](/assets/img/rezz/a.png)
+![img](/img/rezz/a.png)
 
-![img](/assets/img/rezz/f.png)
-![img](/assets/img/rezz/g.png)
+![img](/img/rezz/f.png)
+![img](/img/rezz/g.png)
 
-![img](/assets/img/rezz/s.png)
+![img](/img/rezz/s.png)
 attendee collision bounds
 
-![img](/assets/img/rezz/q.png)
-![img](/assets/img/rezz/w.png)
-![img](/assets/img/rezz/e.png)
+![img](/img/rezz/q.png)
+![img](/img/rezz/w.png)
+![img](/img/rezz/e.png)
 realtime twitch interaction via Chatty moth technology
 
-![img](/assets/img/rezz/y.jpg)
-![img](/assets/img/rezz/r.jpg)
+![img](/img/rezz/y.jpg)
+![img](/img/rezz/r.jpg)
 
 
 # Press
