@@ -19,8 +19,7 @@ Code Mostly Lifted from [Three Eyed Games](http://three-eyed-games.com/2018/05/1
 
 # Temporal Reprojection
 
-But then I decided to reproject frames from the past into the current buffer to improve convergence, and make it pretty much realtime
-
+But then I decided to reproject frames from the past into the current buffer to improve convergence, and make it pretty much realtime. Will add some more about this later
 
 
 # Renders
