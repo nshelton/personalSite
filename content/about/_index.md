@@ -6,11 +6,9 @@ title = "About"
 
 My name is Sheltron, this is where I keep a list of projects I've worked on relating to interactive graphics, data visualization, and audiovisual and virtual performance capture, 3D scanning, fracals, performance optimisation... 
 
-
  <!-- * 2018 [Resume](https://nshelton.github.io/assets/docs/resume.pdf) FIXLINK -->
  <!-- * [cv](https://nshelton.github.io/CV/) FIXLINK -->
-
-![This is me][1]
+here is my CV
 
 
 # tools

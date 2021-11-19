@@ -42,8 +42,8 @@ googleAnalytics = "UA-26353276-1"
   url = "resources/"
 
   [[params.navlinks]]
-  name = "All Projects"
-  url = "portfolio/"
+  name = "Home"
+  url = "home/"
   home = true
 
   [[params.navlinks]]
