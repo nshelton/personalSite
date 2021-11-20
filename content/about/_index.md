@@ -4,11 +4,7 @@ title = "About"
 +++
 
 
-My name is Sheltron, this is where I keep a list of projects I've worked on relating to interactive graphics, data visualization, and audiovisual and virtual performance capture, 3D scanning, fracals, performance optimisation... 
-
- <!-- * 2018 [Resume](https://nshelton.github.io/assets/docs/resume.pdf) FIXLINK -->
- <!-- * [cv](https://nshelton.github.io/CV/) FIXLINK -->
-here is my CV
+My name is Nick Shelton, welcome to my little internet scrapbook of prjects I've woorked on. 
 
 
 # tools
@@ -27,10 +23,14 @@ Realtime Graphics ◦ Shaders ◦ Audio & Data Visualization ◦ XR
 
 *2020* ◦ [Ian Cheng](http://iancheng.com/) ◦ [David Oreilly](http://www.davidoreilly.com/) ◦ [Nexus Studios](https://nexusstudios.com/about/) ◦ [Rap Research Lab](https://rapresearchlab.com/) ◦ [LOGAN](https://logan.tv/) ◦ [WaveXR](https://wavexr.com/)
 
+*2021* ◦ [Polycam](https://poly.cam/) ◦ [Facebook Reality Labs](https://tech.fb.com/ar-vr/)
+
 
 # experience
 
-*2017 - 2020* ◦ [The Wave VR](http://thewavevr.com/) ◦ [Technical Art Director](http://thewavevr.com/team) ◦ Los Angeles
+*2021* ◦ [Woodbury University](https://woodbury.edu/) ◦ Adjunct Lecturer ◦ CSMA3202 Advanced Programming ◦ Burbank
+
+*2017 - 2020* ◦ [The Wave VR](http://thewavevr.com/) ◦ Technical Art Director ◦ Los Angeles
 
 *NOV 2016* ◦ [The Gray Area Creative Code](http://grayarea.org/education/overview/) ◦ TA - Fall 2016 ◦ San Francisco
 
@@ -38,7 +38,7 @@ Realtime Graphics ◦ Shaders ◦ Audio & Data Visualization ◦ XR
     
 *2016* ◦ [Occipital](https://occipital.com) ◦ Graphics Lead - [Bridge Mixed Reality Engine](https://bridge.occipital.com) ◦ San Francisco
 
-*AUG 2015* ◦ [Intel](http://www.sdvis.org/) ◦ [HPC Graphics Driver Development](Http://FIXLINK_.com/_posts/2015-10-01-OpenSWR.markdown) ◦ Austin
+*AUG 2015* ◦ [Intel](http://www.sdvis.org/) ◦ [HPC Graphics Driver Development]({{<ref "openswr">}}) ◦ Austin
 
 *JAN 2015* ◦ [Terra Incongnita](http://www.terraincognita.com/) ◦ [Geospatial Dataviz](https://nshelton.github.io/dataviz/2015/07/18/atlanta.html) ◦ Austin
 
@@ -56,9 +56,9 @@ Realtime Graphics ◦ Shaders ◦ Audio & Data Visualization ◦ XR
 
 *AUG 2018* ◦ [Imogen Heap](https://www.theverge.com/2018/8/23/17769166/imogen-heap-concert-oculus-vr-headset-thewavevr) VR experience @ [The Wave VR](http://thewavevr.com/)  
 
-*NOV 2017* ◦ [RTA](Http://FIXLINK_.com/_posts/2018-04-09-RTA.markdown) ◦ Interactive Compute-Shader based Fractal Explorer
+*NOV 2017* ◦ [RTA]({{<ref "rta">}}) ◦ Interactive Compute-Shader based Fractal Explorer
 
-*FEB 2017* ◦ [FORM](Http://FIXLINK_.com/_posts/2017-06-11-FORM.markdown) ◦ Interactive Pixel-Shader Raymarched Fractal Explorer
+*FEB 2017* ◦ [FORM]({{<ref "FORM">}}) ◦ Interactive Pixel-Shader Raymarched Fractal Explorer
 
 *JUN 2018* ◦ [The Glitch Mob's](https://theglitchmob.com) See Without Eyes @ [The Wave VR](http://thewavevr.com/) ◦  [Interactive Audiovisual VR Show](https://www.youtube.com/watch?v=70H3Sv6lxIY)
 
@@ -66,9 +66,9 @@ Realtime Graphics ◦ Shaders ◦ Audio & Data Visualization ◦ XR
 
 *SEP 2017* ◦ [Tokimonsta's](https://tokimonsta.com/) Lune Rouge @ [The Wave VR](http://thewavevr.com/) ◦ [Interactive Audiovisual VR Album](https://www.engadget.com/2017/10/06/dance-in-a-trippy-vr-rave-inspired-by-tokimonstas-new-album/)
 
-*AUG 2017* ◦ [Ash Koosha](https://soundcloud.com/ashkoosha) @ [The Wave VR](http://thewavevr.com/) ◦ [Interactive Audiovisual VR Show](Http://FIXLINK_.com/_posts/2017-07-23-aktual.markdown)
+*AUG 2017* ◦ [Ash Koosha](https://soundcloud.com/ashkoosha) @ [The Wave VR](http://thewavevr.com/) ◦ [Interactive Audiovisual VR Show]({{<ref "aktual">}})
 
-*JUN 2017* ◦ [Grimecraft](https://soundcloud.com/grimecraft) @ [The Wave VR](http://thewavevr.com/) ◦ [Interactive Audiovisual VR Show](Http://FIXLINK_.com/_posts/2017-07-23-grimecraft.markdown)
+*JUN 2017* ◦ [Grimecraft](https://soundcloud.com/grimecraft) @ [The Wave VR](http://thewavevr.com/) ◦ [Interactive Audiovisual VR Show]({{<ref "grimecraft">}})
 
 *MAY 2017* ◦ [N-FOLD](Http://FIXLINK_.com/_posts/2017-06-27-nfold.markdown) @ [The Wave VR](http://thewavevr.com/) ◦ Realtime Audiovisual Experience w/ [StrangeLoop](http://strangeloop-studios.com/)
 
@@ -100,21 +100,21 @@ Realtime Graphics ◦ Shaders ◦ Audio & Data Visualization ◦ XR
 
 *FEB 2019* ◦ Private Club Projection Mapping ◦ Tokyo
 
-*JUL 2018* ◦ DEVICE.001 @ [Coaxial](http://coaxialarts.org) ◦ Exhibiting [RTA](Http://FIXLINK_.com/_posts/2018-04-09-RTA.markdown) ◦ Los Angeles
+*JUL 2018* ◦ DEVICE.001 @ [Coaxial](http://coaxialarts.org) ◦ Exhibiting [RTA]({{<ref "rta">}}) ◦ Los Angeles
 
 *JUL 2018* ◦ DEVICE.001 @ [Coaxial](http://coaxialarts.org) ◦ Fractal Flames Leap Motion Installation ◦ Los Angeles
 
 *MAR 2018* ◦ [The Distracted Globe from "Ready Player One"](https://vimeo.com/259063906) @ [The Wave VR](http://thewavevr.com/) ◦ Live Debut at [SXSW 2018](https://www.sxsw.com) ◦ Austin 
 
-*NOV 2017* ◦ [E.A.S.T](http://east.bigmedium.org) ◦ [The Psychedome](http://east.bigmedium.org/part/part_179.html) @ [Austin Tinkering School](http://austintinkeringschool.com/) ◦ [FORM](Http://FIXLINK_.com/_posts/2017-06-11-FORM.markdown) VR Installation ◦ Austin
+*NOV 2017* ◦ [E.A.S.T](http://east.bigmedium.org) ◦ [The Psychedome](http://east.bigmedium.org/part/part_179.html) @ [Austin Tinkering School](http://austintinkeringschool.com/) ◦ [FORM]({{<ref "form">}}) VR Installation ◦ Austin
 
-*NOV 2017* ◦ Location B Closing Party Dome ◦ [FORM](Http://FIXLINK_.com/_posts/2017-06-11-FORM.markdown) VR Installation ◦ Austin
+*NOV 2017* ◦ Location B Closing Party Dome ◦ [FORM]({{<ref "form">}}) VR Installation ◦ Austin
 
-*JUN 2017* ◦ [Flying Lotus](http://www.flying-lotus.com/) @ [FYF Fest](https://fyffest.com/) ◦ [3D Video](Http://FIXLINK_.com/_posts/2017-07-23-flylo.markdown) w/ [StrangeLoop Studios](http://strangeloop-studios.com/) ◦ LA
+*JUN 2017* ◦ [Flying Lotus](http://www.flying-lotus.com/) @ [FYF Fest](https://fyffest.com/) ◦ [3D Video]({{<ref "form">}}) w/ [StrangeLoop Studios](http://strangeloop-studios.com/) ◦ LA
 
-*JUN 2017* ◦ [Codame](http://codame.com/) [3D Web Fest](http://www.3dwebfest.com/) ◦ Presenting [LEVELS](Http://FIXLINK_.com/_posts/2016-10-30-LEVELS.markdown) ◦ San Francisco
+*JUN 2017* ◦ [Codame](http://codame.com/) [3D Web Fest](http://www.3dwebfest.com/) ◦ Presenting [LEVELS]({{<ref "levels">}}) ◦ San Francisco
 
-*MAY 2017* ◦ [Boulder Startup Week](https://boulderstartupweek.com/) ◦ [FORM](Http://FIXLINK_.com/_posts/2017-06-11-FORM.markdown) demos ◦ Boulder
+*MAY 2017* ◦ [Boulder Startup Week](https://boulderstartupweek.com/) ◦ [FORM]({{<ref "form">}}) demos ◦ Boulder
 
 *FEB 2017* ◦ [Art and VR](http://artandvr.com/) @ [Hack Temple](http://artandvr.com/post.php?p=277) ◦ [A futurist festival](http://artandvr.com/tickets-artandvr.php) ◦ San Francisco
 
@@ -122,9 +122,9 @@ Realtime Graphics ◦ Shaders ◦ Audio & Data Visualization ◦ XR
 
 *OCT 2016* ◦ [The Art of Dying](https://www.facebook.com/events/574117699461971/) @ [The Laundry](https://www.facebook.com/TheLaundrySF)  ◦ [COLORS](http://127.0.0.1:4000/led%20wall/audioreactive/2016/10/30/COLORS.html) ◦ San Francisco
 
-*NOV 2015* ◦ [East Austin Studio Tour](http://east.bigmedium.org) Opening Show ◦ [_this.node](Http://FIXLINK_.com/_posts/2015-11-20-this._node.markdown) ◦ Austin
+*NOV 2015* ◦ [East Austin Studio Tour](http://east.bigmedium.org) Opening Show ◦ [_this.node]({{<ref "thisnode">}}) ◦ Austin
 
-*NOV 2015* ◦ [Chicon Collective](http://chicon.co) E.A.S.T. Official Studio  ◦ [_this.node](Http://FIXLINK_.com/_posts/2015-11-20-this._node.markdown) ◦ Austin
+*NOV 2015* ◦ [Chicon Collective](http://chicon.co) E.A.S.T. Official Studio  ◦ [_this.node]({{<ref "thisnode">}}) ◦ Austin
 
 # custom programmed vj software
 
