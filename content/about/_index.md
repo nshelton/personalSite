@@ -52,6 +52,34 @@ Realtime Graphics ◦ Shaders ◦ Audio & Data Visualization ◦ XR
 
 *2010* ◦ [University of Texas](https://www.utexas.edu/) ◦ [Artifical Intelligence and Robotics Lab](http://www.cs.utexas.edu/users/ai-lab/?robotics) ◦ [Autonomous Vehicles Research](https://nshelton.github.io/assets/docs/autonomousVehicles.pdf) ◦ Austin
 
+
+# virtual production / streams
+
+*NOV 2020* ◦ [ANTIFRAGILE](https://spiritbomb.ai/spirits/antifragile/) with [SpiritBombAI](https://www.twitch.tv/spiritbombai)
+
+*OCT 2020* ◦ [CAPYAC](https://www.twitch.tv/capyac) on Twitch
+
+*AUG 2020* ◦ [The Weeknd](https://nshelton.github.io/home/weeknd/) with The Wave
+
+*AUG 2020* ◦ [Lindsey Stirling](https://www.youtube.com/watch?v=TGNJbrZnIJg) with The Wave
+
+*JUN 2020* ◦ [John Legend](https://nshelton.github.io/home/johnlegend/) with The Wave
+
+*JUN 2020* ◦ [Tinashe](https://www.youtube.com/watch?v=SWIc8XWKF_U) with The Wave
+
+*FEB 2020* ◦ [Galantis](https://www.youtube.com/watch?v=-WustmGu8EE) with The Wave
+
+*JAN 2020* ◦ [Tinashe](https://www.youtube.com/watch?v=SWIc8XWKF_U) with The Wave
+
+*JAN 2020* ◦ [Jauz](https://www.youtube.com/watch?v=GCHorqvOmbI) with The Wave
+
+*AUG 2019* ◦ [Kill The Noise](https://www.youtube.com/watch?v=ASu-CvtpbVM) with The Wave
+
+*AUG 2019* ◦ [Lindsey Stirling](https://www.youtube.com/watch?v=ASu-CvtpbVM) with The Wave
+
+*JUL 2019* ◦ [REZZ](https://www.youtube.com/watch?v=pHhre8G_KEw&t=2s) with The Wave
+
+
 # vr experiences
 
 *AUG 2018* ◦ [Imogen Heap](https://www.theverge.com/2018/8/23/17769166/imogen-heap-concert-oculus-vr-headset-thewavevr) VR experience @ [The Wave VR](http://thewavevr.com/)  
@@ -75,6 +103,8 @@ Realtime Graphics ◦ Shaders ◦ Audio & Data Visualization ◦ XR
 *JAN 2016* ◦ [Bridge Engine Demo](https://www.youtube.com/watch?v=cEnnbCSbijo) @ [Occipital](http://occipital.com/) ◦ Realtime iOS Mixed Reality Rendering Engine
 
 # speaking
+
+*Sep 2021* ◦ Strangeloop Studios Labs ◦ Fractals and Design ◦ Discord
 
 *FEB 2019* ◦ [Polygon Lounge #1](https://peatix.com/event/599022) @ [Tunnel Tokyo](https://tunnel-tokyo.jp/) ◦ Tokyo
 
@@ -127,6 +157,10 @@ Realtime Graphics ◦ Shaders ◦ Audio & Data Visualization ◦ XR
 *NOV 2015* ◦ [Chicon Collective](http://chicon.co) E.A.S.T. Official Studio  ◦ [_this.node]({{<ref "thisnode">}}) ◦ Austin
 
 # custom programmed vj software
+
+*OCT 2021* ◦ Capyac's [Horror Disco](https://www.facebook.com/capyac/videos/547793729843190/) ◦ Austin 
+
+*OCT 2019* ◦ Capyac's [Horror Disco](https://www.facebook.com/capyac/videos/547793729843190/) ◦ Los Angeles
 
 *JUL 2019* ◦ [2ToneDisco](https://soundcloud.com/2tonedisco) @ AX Dance @ [Anime Expo 2019](http://www.anime-expo.org) ◦ Los Angeles
 

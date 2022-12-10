@@ -10,14 +10,15 @@ image: img/labob/9.jpg
 ---
 
 ## Real Time Unity short Film
+
 What if an AI could do the job of living your life better than you?
 
 Neural engineer Dr. Wong has installed an experimental AI named BOB (“Bag of Beliefs”) into the nervous system of his 10-year-old daughter Chalice. Designed to guide Chalice through the challenges of growing up in a volatile world, BOB confronts more and more of the conflicts in Chalice’s life on her behalf, while Chalice grows increasingly irrelevant and escapist. As Dr. Wong begins to favor the BOB side of his daughter, and as BOB threatens to do the job of living Chalice’s life better than she can, Chalice jealously wonders: what is left for her classic human self to do?
 
 read more at [https://lifeafterbob.io/](https://lifeafterbob.io/)
 
-{{<youtube vCc2djR25hg>}}
 
+{{<youtube vCc2djR25hg>}}
 
 # look development
 
@@ -80,10 +81,14 @@ just some simplex noise displacement, but with different planes! like a trippy d
 {{<image "/img/labob/11.jpg">}}
 {{<image "/img/labob/12.jpg">}}
 
+# exhibitions
+[The Shed NYC](https://theshed.org/program/142-ian-cheng-life-after-bob) ~ Sept 10 - Dec 19 2021
 
+[Luma Zurich](https://www.worldartfoundations.com/luma-westbau-ian-cheng-life-after-bob/?v=7516fd43adaa_) ~ Sept 17 - Oct 30 2021
 
-# press
+*Luma Arles* ~ June 26 - Oct 30 2021
 
+Coming to *Light Art Space Berlin* ~ Spring 2022
 
 
 
