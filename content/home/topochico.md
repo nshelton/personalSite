@@ -11,7 +11,7 @@ image: img/topochico/thumb.jpg
 
 Realtime Kinect visualizer experiments
 
-Hooked up a *Kinect Azure* to Unity's *VFX Graph* to explore some live realtime visuals for Lyell Roder ([Alt Fi](https://www.altfi.fm/)) and [Troy Everett](http://www.troyeverett.com/about) - a Live improv ambient set
+Hooked up a *Kinect Azure* to Unity's *VFX Graph* to explore some live realtime visuals for Lyell Roeder ([Alt Fi](https://www.altfi.fm/)) and [Troy Everett](http://www.troyeverett.com/about) - a Live improv ambient set
 
 
 # video
