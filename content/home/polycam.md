@@ -13,22 +13,18 @@ Computer vision R&D and iOS shader development for a popular 3D scanning app.
 
 ## Overview
 
-Worked on computer vision R&D for [Polycam](https://poly.cam/), one of the most popular 3D scanning apps on iOS. Focused on some 3d fps and trackball camera controler. I also prototyped some automated 2d ploorplan extraction but then apple shipped a really good floorplan thing. so, gg. 
+Briefly in 2021, i was an iOS software development contractor for the popular 3D scanning App [Polycam](https://poly.cam/). I have always been a huge fan of mobile 3D scanning, and got to use some of the skills for Lynx Laboratories and Occipital to work on mobile shaders and 3D viewer UI. 
 
-<!-- TODO: add screenshot of Polycam app or floorplan output -->
-{{<image "/img/polycam/placeholder.jpg">}}
+
+{{<image "/img/polycam/floorplan.png">}}
 
 ## Mesh-to-Floorplan Extraction
 
-Developed automated pipeline to extract architectural floorplans from 3D mesh scans. This involved computational geometry, plane detection, and boundary extraction from noisy real-world scan data.
-
-<!-- TODO: add diagram showing mesh -> floorplan pipeline -->
+I also did some Computer Vision R&D, and prototyped automated 2d ploorplan extraction from the scans. It wasn't very reliable, and then soon after Apple shipped a really good floorplan thing. so, gg. 
 
 ## iOS Shader Development
 
 Built custom SceneKit shaders for real-time 3D visualization and developed UX prototypes for spatial interaction with scanned environments.
-
-<!-- TODO: add screenshot of shader work -->
 
 ## Tools
 
