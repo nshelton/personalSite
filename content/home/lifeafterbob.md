@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life After BOB"
-date:   2021-08-16 00:13:37 -0666
+date:   2021-08-16 00:13:37 -0600
 categories: 
  - unity
 

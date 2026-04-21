@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Weeknd"
-date:   2020-08-16 00:13:37 -0666
+date:   2020-08-16 00:13:37 -0600
 categories: 
  - vj
  - unity

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "See Without Eyes"
-date:   2018-06-21 00:13:37 -0666
+date:   2018-06-21 00:13:37 -0600
 categories: 
  - vr
  - unity

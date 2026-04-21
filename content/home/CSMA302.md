@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CSMA302 Advanced Programming"
-date:   2021-08-30 00:13:37 -0666
+date:   2021-08-30 00:13:37 -0600
 categories: 
  - unity
  - generative

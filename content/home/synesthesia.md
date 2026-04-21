@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Synesthesia"
-date:   2015-05-16 00:13:37 -0666
+date:   2015-05-16 00:13:37 -0600
 categories: 
  - vj
 

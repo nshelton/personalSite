@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Atlanta "
-date:   2015-07-18 00:13:37 -0666
+date:   2015-07-18 00:13:37 -0600
 categories: 
  - dataviz
  - webgl

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3D Web Fest"
-date:   2017-06-30 00:13:37 -0666
+date:   2017-06-30 00:13:37 -0600
 categories: 
  - vj
  - webgl

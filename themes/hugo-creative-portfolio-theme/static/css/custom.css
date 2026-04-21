@@ -131,3 +131,18 @@ img {
 .grid {
     margin-top:50px;
 }
+
+.lightbox-image {
+    display: inline-block;
+    cursor: zoom-in;
+}
+.lightbox-image img {
+    transition: opacity 0.2s;
+}
+.lightbox-image:hover img {
+    opacity: 0.85;
+}
+.lightbox-image:not(.image2):not(.image3) img {
+    max-width: 600px;
+    width: 100%;
+}

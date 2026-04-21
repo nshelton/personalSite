@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magfest VJ"
-date:   2019-01-04 00:13:37 -0666
+date:   2019-01-04 00:13:37 -0600
 categories: 
  - vj
  - unity

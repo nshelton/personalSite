@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sketchbook "
-date:   2017-01-01 00:13:37 -0666
+date:   2017-01-01 00:13:37 -0600
 categories: 
  - art
 image: img/art/sketches2/thumbnail.jpg

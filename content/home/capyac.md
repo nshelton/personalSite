@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "capyac"
-date:   2015-10-13 00:13:37 -0666
+date:   2015-10-13 00:13:37 -0600
 categories: 
  - vj
 image: img/vj/thumb.jpg 

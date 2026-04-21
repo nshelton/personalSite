@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Light - Kizuna AI / W&W"
-date:   2019-03-10 00:13:37 -0666
+date:   2019-03-10 00:13:37 -0600
 categories: 
  - unity
  - wave

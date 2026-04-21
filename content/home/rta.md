@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ṛta"
-date:   2017-12-30 00:13:37 -0666
+date:   2017-12-30 00:13:37 -0600
 categories: 
  - vr
  - unity

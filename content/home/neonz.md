@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Neonz AR"
-date:   2022-02-20 00:13:37 -0666
+date:   2022-02-20 00:13:37 -0600
 categories: 
  - unity
  - generative
@@ -94,3 +94,11 @@ https://ted.sutuverse.com/
 
 # FaceTracking
 
+
+## Exhibitions
+
+Exhibited at **SXSW** and various art galleries (2022).
+
+## Tools
+
+Unity, GLSL/HLSL, ARKit, ARCore, WebXR, iOS, Android

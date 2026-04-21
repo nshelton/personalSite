@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3D Flying Lotus Visuals"
-date:   2017-07-23 00:13:37 -0666
+date:   2017-07-23 00:13:37 -0600
 categories: 
  - vj
  - unity

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "N-FOLD"
-date:   2017-06-27 00:13:37 -0666
+date:   2017-06-27 00:13:37 -0600
 categories: 
  - vr
  - unity

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "T-Pain"
-date:   2019-06-01 00:13:37 -0666
+date:   2019-06-01 00:13:37 -0600
 categories: 
  - vj
  - unity

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Growth Algorithms"
-date:   2019-09-18 00:13:37 -0666
+date:   2019-09-18 00:13:37 -0600
 categories: 
  - generative
  - unity

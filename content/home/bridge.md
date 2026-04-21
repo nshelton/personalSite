@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "occipital bridge"
-date:   2016-12-21 00:13:37 -0666
+date:   2016-12-21 00:13:37 -0600
 categories: 
  - ar
 image: img/bridge/thumbnail.jpg

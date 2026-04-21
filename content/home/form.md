@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FORM 0.0 beta"
-date:   2017-06-11 00:13:37 -0666
+date:   2017-06-11 00:13:37 -0600
 categories: 
  - vr
  - unity

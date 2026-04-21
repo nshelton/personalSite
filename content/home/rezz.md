@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "REZZ"
-date:   2019-06-23 00:13:37 -0666
+date:   2019-06-23 00:13:37 -0600
 categories: 
  - vj
  - unity
