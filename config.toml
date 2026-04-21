@@ -25,9 +25,9 @@ googleAnalytics = "G-72826Y6Q7S"
   # Use custom.css for your custom styling
   style = "sea"
   description = "Sheltron visuals portfolio site"
-  copyright = "&copy;2020 Sheltron Visuals"
+  copyright = "&copy;2026 Nick Shelton"
   sidebarAbout = [
-    "Freelance graphics programming, Art, Code, Math, Data"
+    "Computer vision, 3D reconstruction, and real-time graphics engineer"
   ]
   email = "nshelton@gmail.com"
 
@@ -49,6 +49,10 @@ googleAnalytics = "G-72826Y6Q7S"
   [[params.navlinks]]
   name = "Live Demos"
   url = "demos/"
+
+  [[params.navlinks]]
+  name = "Live Visuals"
+  url = "live/"
 
 
   [params.social]

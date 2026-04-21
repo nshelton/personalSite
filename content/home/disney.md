@@ -16,7 +16,7 @@ Projection mapping, computer vision, 3D reconstruction, and real-time tracking f
 
 From 2023 to 2024 I worked as a contractor at *Walt Disney Imagineering's R&D group in Glendale* on computer vision, 3D reconstruction, and real-time tracking systems. 
 
-Most of this is under NDA and i really don't want Disney to sue me so I'll just post obviously public information and photos. Some of the work I did was related to these projects, or maybe the code found its way in there. The R&D group is very serparated from what actually happens at the park and spends most of their time making prototypes.
+Most of this is under NDA and i really don't want Disney to sue me so I'll just post obviously public information and photos. Some of the work I did was related to these projects, or maybe the code found its way in there. The R&D group is very separated from what actually happens at the park and spends most of their time making prototypes.
 
 I basically spent a lot of time combining really nice industrial vision *cameras* and *projectors* with really expensive *GPU clusters* to make *magic*.
 
@@ -31,7 +31,7 @@ Probably the most visible project to come out of R&D was these walking droid tra
 
 from [disneytouristblog](https://www.disneytouristblog.com/inside-imagineering/)
 
-Obligitory photo of lanny and the holotile floor. I was tangentially involved in this one. I worked on a couple of projects with Lanny, what a legend.
+Obligatory photo of lanny and the holotile floor. I was tangentially involved in this one. I worked on a couple of projects with Lanny, what a legend.
 
 ## Moana: Journey of Water
 
@@ -42,7 +42,7 @@ One of the more public displays of the tracking tech we built was in  [Moana: Jo
 
 ## Patents
 
-Disney loves to patent things... I pretty quickly got involved in a patent for tracking laser beams. You can probably google the rides at disneyland that invole laser beams...
+Disney loves to patent things... I pretty quickly got involved in a patent for tracking laser beams. You can probably google the rides at disneyland that involve laser beams...
 
 {{<image "/img/disney/patent.png">}}
 
