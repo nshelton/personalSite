@@ -7,6 +7,7 @@ categories:
  - unity
  - vr
 image: img/rrl/verbs.jpg
+recent: true
 ---
 
 An Optimisaiton Journey. Client : [Rap Research Lab](https://rapresearchlab.com/)

@@ -6,22 +6,28 @@ categories:
  - reconstruction
  - mobile
 image: img/snap/thumbnail.jpg
+recent: true
 ---
 Gaussian Splatting rendering optimization for mobile AR hardware.
 <!--more-->
 
 ## Overview
 
-Brief stint at Snap Inc. working on rendering optimization for their Spectacles AR platform. Optimized Gaussian Splatting rendering on Vulkan and OpenGL for mobile GPU targets, including Spectacles and Android devices.
+In 2026 i had a brief stint at Snap Inc in *Santa Monica* working on their graphics team. I was mostly working on streamlining their shader pipeline for constrained mobile architectures, like *Spectacles*. 
 
-<!-- TODO: add image of Spectacles hardware or splat rendering -->
-{{<image "/img/snap/placeholder.jpg">}}
+Unfortunately about 6 weeks ater starting they did some company-wide restructuring and then let me go! 
+
+
+## Lens Studio
+
+{{<image "/img/snap/lensStudio.png">}}
+
+
 
 ## Gaussian Splatting on Mobile
 
 Worked on optimizing 3D Gaussian Splatting renderers for the constrained GPU and thermal budgets of mobile AR hardware. This involved Vulkan and OpenGL shader compilation pipelines tuned for mobile architectures.
 
-<!-- TODO: add screenshot of mobile splat rendering -->
 
 ## Tools
 

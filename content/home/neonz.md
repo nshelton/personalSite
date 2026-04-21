@@ -8,6 +8,7 @@ categories:
  - art
  - ar
 image: img/neonz/thumb.jpg
+recent: true
 ---
 # AR NFT Viewer
 

@@ -5,6 +5,7 @@ date:   2019-01-04 00:13:37 -0600
 categories: 
  - vj
  - unity
+ - fractals
 image: img/fractalflames/thumbnail.jpg
 
 ---

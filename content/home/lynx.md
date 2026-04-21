@@ -26,11 +26,26 @@ Our team won international awards and presented our work at industry conferences
  - SBIR Innovation Summit
  - Idea To Product Austin Winners
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Da2KGKTynOo" frameborder="0" allowfullscreen></iframe>
-
 We went on to get additional [NSF SBIR phase II funding](https://www.sbir.gov/sbirsearch/detail/704651) to continue 3D scanning research.
 
 I worked on some cool projects during this time including:
+
+## 3D Sensor (Structured Light) Calibration
+
+Accuracy of our 3D scans was was Lynx Labs primary competitive advantage, after the speed and simple interface. To get globally consistent room-scale models we improved upon the standard calibration of the Structure Sensor and implemented a custom stereo vision pipeline. 
+
+Reconstruction using factory calibration :
+
+{{<image "/img/lynx/uncalibrated.jpg">}}
+
+Reconstruction using custom calibration and stereo vision pipeline :
+
+{{<image "/img/lynx/calibrated.jpg">}}
+
+
+
+
+
 
 ## HD Texture mapping on 3D scans
 
@@ -57,17 +72,6 @@ With HD texturing:
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>
-
-
-
-## 3D Sensor (Structured Light) Calibration
-
-Accuracy of our 3D scans was was Lynx Labs primary competitive advantage, after the speed and simple interface. To get globally consistent room-scale models we improved upon the standard calibration of the Structure Sensor and implemented a custom stereo vision pipeline. 
-
-Reconstruction using factory calibration :
-![uncalibrated](/assets/img/lynx/uncalibrated.jpg)
-Reconstruction using custom calibration and stereo vision pipeline :
-![calibrated](/assets/img/lynx/calibrated.jpg)
 
 
 

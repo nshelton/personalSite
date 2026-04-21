@@ -8,6 +8,7 @@ categories:
  - reconstruction
  - installation
 image: img/disney/thumbnail.jpg
+recent: true
 ---
 Projection mapping, computer vision, 3D reconstruction, and real-time tracking for Walt Disney Imagineering R&D.
 <!--more-->
@@ -22,9 +23,7 @@ I basically spent a lot of time combining really nice industrial vision *cameras
 
 {{<image "/img/disney/droids.jpg">}}
 
-from [disneytouristblog](https://www.disneytouristblog.com/inside-imagineering/)
-
-Probably the most visible project to come out of R&D was these walking droid trained with simulated reinforcement learning. These guys were super cool. *I did not have anything to do with this* but they were sometimes walking around my desk area. 
+from [disneytouristblog](https://www.disneytouristblog.com/inside-imagineering/) Probably the most visible project to come out of R&D was these walking droid trained with simulated reinforcement learning. These guys were super cool. *I did not have anything to do with this* but they were sometimes walking around my desk area. 
 
 
 {{<image "/img/disney/holotile.jpg">}}

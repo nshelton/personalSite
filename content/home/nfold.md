@@ -37,8 +37,6 @@ N-Fold was a collaboration with David Wexler and TheWaveVR at [Strangeloop Studi
 
 # videos 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J8ttfPVQvTU" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seKP64H-aSs" frameborder="0" allowfullscreen></iframe>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/SMEKD"><a href="//imgur.com/SMEKD">Strange Loop: N-Fold show!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

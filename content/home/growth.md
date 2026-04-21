@@ -6,6 +6,7 @@ categories:
  - generative
  - unity
 image: img/growth/thumb.jpg
+recent: true
 ---
 
 Along with fractals, I also got really into growth algorithms, especially making them run in realtime. 

@@ -7,6 +7,7 @@ categories:
  - unity
  - fractals
 image: img/form2/thumbnail.jpg
+recent: true
 ---
 
 Free VR Fractal Visualizer & Manipulation Software for Vive

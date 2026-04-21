@@ -11,7 +11,10 @@ image: img/magfest/title.jpg
 Super MagFest 2019 DJ battle
 <!--more-->
 ## *DJ BATTLE*
-{{<youtube HbwMEDB0KGs>}}
+{{<image "/img/magfest/magfest.png">}}
+
+
+[James Landino Set](https://www.youtube.com/watch?v=HbwMEDB0KGs) (won't let me embed for some reason)
 
 I VJ'd for 3 straight hours for thousands of people at the magfest DJ battle with the homies
 

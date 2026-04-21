@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Illuminant Surgical"
-date:   2024-06-01
+date:   2025-06-01
 categories: 
  - cv
  - medical
  - reconstruction
 image: img/illuminant/thumbnail.jpg
+recent: true
 ---
 Real-time surgical projection mapping and 3D fiducial tracking for image-guided surgery.
 <!--more-->
@@ -15,7 +16,7 @@ Real-time surgical projection mapping and 3D fiducial tracking for image-guided 
 
 ## Overview
 
-From 2024 to 2026 I was Senior Software Engineer at Illuminant Surgical, building real-time projection mapping systems for surgical navigation. Key personnel on NSF and NIH SBIR grants. I worked on the instrument calibration, fiducial registration system architecture and visualization. 
+From 2024 to 2026 I was *Senior Software Engineer* at Illuminant Surgical, building real-time projection mapping systems for surgical navigation. Key personnel on NSF and NIH SBIR grants. I worked on the instrument calibration, fiducial registration, system architecture and visualization. 
 
 [[illuminant.ai]](https://www.illuminant.ai/)
 
