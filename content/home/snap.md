@@ -15,7 +15,7 @@ Gaussian Splatting rendering optimization for mobile AR hardware.
 
 In 2026 i had a brief stint at Snap Inc in *Santa Monica* working on their graphics team. I was mostly working on the shader pipeline, and got familiar with the *Lens Studio* project, codebase and how they handle various graphics systems. I did not realize they they had essentially built their own game engine ! Each "lens" which most people would call "filters" (though they discourtage this word) is a self-contained scene with assets and javascript that gets evaluated and rendered on whatever device is running it.
 
-Unfortunately about 6 weeks ater starting they did some company-wide restructuring and then let me go! 
+Unfortunately about 6 weeks after starting they did some company-wide restructuring and then let me go! 
 
 
 ## Lens Studio
