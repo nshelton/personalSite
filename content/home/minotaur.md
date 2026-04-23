@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Minotaur"
+title:  "Minotaur Plotter"
 date:   2026-04-01
 categories: 
  - graphics
  - plotter
 image: img/minotaur/gui.jpg
+recent: true
+
 ---
 A C++17 desktop application for converting images into vector paths and driving pen plotters in real time. Compatible with the [Axidraw A3](https://shop.evilmadscientist.com/productsmenu/890) (now Bantam Tools)
 <!--more-->
