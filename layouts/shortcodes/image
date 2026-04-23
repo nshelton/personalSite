@@ -1,3 +1,9 @@
-<a href="{{ index .Params 0 }}" data-toggle="lightbox" data-gallery="page-gallery" class="lightbox-image {{ index .Params 1 }}">
-  <img src="{{ index .Params 0 }}" class="img-responsive" />
-</a>
+{{ $src := .Get 0 }}
+{{ $class := .Get 1 }}
+{{ $caption := .Get 2 }}
+<figure class="lightbox-image {{ $class }}">
+  <a href="{{ $src }}" data-toggle="lightbox" data-gallery="page-gallery"{{ with $caption }} data-title="{{ . }}"{{ end }}>
+    <img src="{{ $src }}" class="img-responsive" />
+  </a>
+  {{ with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
