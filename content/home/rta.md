@@ -35,7 +35,7 @@ I've made many interactive fractal shaders on many platforms and wanted to try a
 
 Shadertoy KIFS (click and drag)
 
-{{<shadertoy llySW1>}}
+<!-- {{<shadertoy llySW1>}} -->
 [Enhanced Sphere Tracing, Keinert et.al 2014](http://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf)
 
 iOS OpenGL Visualizer
@@ -150,3 +150,8 @@ Offers basic control over the amount of compute vs rendering each frame.
 ![Controls](/img/form2/velocitycurve.jpg)
  - Use the thumb pads on the controller to fly. Speed is proportional to the squared distance from your thumb to the center of the pad. 
  - The flight direction is the actual world space vector from the center of the pad to the thumb.
+
+
+# Nvidia GTC 2017 Poster
+
+{{<image "/img/artandvr/GTCPoster.png" full >}}
